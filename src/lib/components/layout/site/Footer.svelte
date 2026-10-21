@@ -40,17 +40,24 @@
 			</small>
 			<small class="inline-flex items-center gap-2 text-[12px] font-semibold"
 				>Code:
-				<a href="https://github.com" target="_blank" rel="noopener noreferrer" class={linkClasses}
-					>MIT</a
+				<a
+					href="https://github.com/oxypteros/mocks/blob/main/LICENSE"
+					target="_blank"
+					rel="noopener"
+					class={linkClasses}
 				>
+					MIT
+				</a>
 				<span class="size-1 bg-brand"></span>
 				Content:
 				<a
 					href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"
 					target="_blank"
 					rel="noopener noreferrer"
-					class={linkClasses}>CC BY-SA 4.0</a
+					class={linkClasses}
 				>
+					CC BY-SA 4.0
+				</a>
 			</small>
 		</div>
 		<ul class="flex flex-wrap items-center gap-x-5 gap-y-2">
