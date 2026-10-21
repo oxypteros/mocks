@@ -1,0 +1,67 @@
+import { paraglideVitePlugin } from '@inlang/paraglide-js';
+import { enhancedImages } from '@sveltejs/enhanced-img';
+import { defineConfig } from 'vitest/config';
+import { playwright } from '@vitest/browser-playwright';
+import { mdsvex } from 'mdsvex';
+import tailwindcss from '@tailwindcss/vite';
+import adapter from '@sveltejs/adapter-cloudflare';
+import { sveltekit } from '@sveltejs/kit/vite';
+import Icons from 'unplugin-icons/vite';
+import { FileSystemIconLoader } from 'unplugin-icons/loaders';
+
+export default defineConfig({
+	plugins: [
+		enhancedImages(),
+		tailwindcss(),
+		sveltekit({
+			compilerOptions: {
+				// Force runes mode for the project, except for libraries. Can be removed in svelte 6.
+				runes: ({ filename }) =>
+					filename.split(/[/\\]/).includes('node_modules') ? undefined : true
+			},
+			adapter: adapter(),
+			preprocess: [mdsvex({ extensions: ['.svx', '.md'] })],
+			extensions: ['.svelte', '.svx', '.md']
+		}),
+
+		paraglideVitePlugin({
+			project: './project.inlang',
+			outdir: './src/lib/paraglide',
+			emitTsDeclarations: true
+		}),
+		Icons({
+			compiler: 'svelte',
+			customCollections: {
+				oxy: FileSystemIconLoader('./src/lib/assets/icons')
+			}
+		})
+	],
+	test: {
+		expect: { requireAssertions: true },
+		projects: [
+			{
+				extends: './vite.config.ts',
+				test: {
+					name: 'client',
+					browser: {
+						enabled: true,
+						provider: playwright(),
+						instances: [{ browser: 'chromium', headless: true }]
+					},
+					include: ['src/**/*.svelte.{test,spec}.{js,ts}'],
+					exclude: ['src/lib/server/**']
+				}
+			},
+
+			{
+				extends: './vite.config.ts',
+				test: {
+					name: 'server',
+					environment: 'node',
+					include: ['src/**/*.{test,spec}.{js,ts}'],
+					exclude: ['src/**/*.svelte.{test,spec}.{js,ts}']
+				}
+			}
+		]
+	}
+});

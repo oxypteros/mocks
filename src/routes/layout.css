@@ -1,0 +1,32 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+@import '@fontsource-variable/inter';
+@import '@fontsource-variable/jetbrains-mono';
+@import '@fontsource-variable/literata';
+
+:root {
+	/* Brand Foundation */
+	--brand: #374955;
+
+	/* Surfaces */
+	--bg: #e3e9ed;
+	--surface: #f4f7f9;
+}
+
+@theme inline {
+	--font-sans: 'Inter Variable', sans-serif;
+	--font-serif: 'Literata Variable', serif;
+	--font-mono: 'JetBrains Mono Variable', monospace;
+	--color-brand: var(--brand);
+	--color-bg: var(--bg);
+	--color-surface: var(--surface);
+
+	--spacing-8xl: 1440px;
+}
+
+@layer components {
+	.link {
+		@apply underline decoration-1 underline-offset-2 hover:underline-offset-4;
+	}
+}
