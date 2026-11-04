@@ -1,0 +1,5 @@
+---
+title: About Mocks
+subtitle: An independent, non-commercial, open-source practice portal for professional certification exams.
+date: '2026-10-26'
+---
