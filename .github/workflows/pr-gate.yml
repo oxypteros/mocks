@@ -1,0 +1,84 @@
+name: PR gate
+
+# Runs when a pull request targets `main`.
+# This workflow's checks are required before the merge button is enabled.
+# Feature branches stay free: only pull requests into `main` are gated.
+on:
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize, reopened, ready_for_review]
+
+permissions:
+  contents: read
+
+# A new push to the PR cancels the previous run instead of queueing stale checks.
+concurrency:
+  group: pr-gate-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  quality:
+    name: Quality (svelte-check + lint)
+    if: github.event.pull_request.draft == false
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v6
+
+      - name: Set up Node
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      # `check` keeps the required `wrangler types` -> strip-global-props order
+      # and runs svelte-check with --fail-on-warnings.
+      - name: Svelte check (warnings are errors)
+        run: pnpm check
+
+      - name: Lint (Prettier + ESLint)
+        run: pnpm lint
+
+  a11y:
+    name: Accessibility (axe-core A/AA/AAA + best practices)
+    if: github.event.pull_request.draft == false
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v6
+
+      - name: Set up Node
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Install Chromium
+        run: pnpm exec playwright install --with-deps chromium
+
+      # Builds the Cloudflare worker, starts `wrangler dev`, and scans every
+      # route at 320px and 1280px with axe's WCAG A/AA/AAA and best-practice tags.
+      - name: Run axe accessibility scans
+        run: pnpm test:a11y
+
+      - name: Upload Playwright results
+        if: failure()
+        uses: actions/upload-artifact@v7
+        with:
+          name: playwright-a11y
+          path: test-results/
+          retention-days: 7
