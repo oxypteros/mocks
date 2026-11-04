@@ -1,10 +1,9 @@
 <script lang="ts">
 	import { AlertDialog } from 'bits-ui';
 	import type { Snippet } from 'svelte';
-
 	import Button from '#lib/components/ui/Buttons.svelte';
 
-	interface Props {
+	interface ExamExitProps {
 		open: boolean;
 		onOpenChange: (open: boolean) => void;
 		onconfirm: () => void;
@@ -25,7 +24,7 @@
 		confirmLabel = 'Leave exam',
 		cancelLabel = 'Stay on exam',
 		content
-	}: Props = $props();
+	}: ExamExitProps = $props();
 </script>
 
 <AlertDialog.Root {open} {onOpenChange}>
