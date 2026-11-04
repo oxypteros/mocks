@@ -1,7 +1,7 @@
 {
 	"name": "mocks",
 	"private": true,
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"type": "module",
 	"packageManager": "pnpm@12.16.1",
 	"engines": {
@@ -21,10 +21,8 @@
 		"test:e2e": "playwright install && playwright test",
 		"test:a11y": "playwright test e2e/a11y.e2e.ts",
 		"gen": "wrangler types",
-		"db:studio": "drizzle-kit studio",
-		"db:push": "drizzle-kit push",
+		"db:studio": "drizzle-kit studio --config=drizzle.remote.config.ts",
 		"db:generate": "drizzle-kit generate",
-		"db:migrate": "drizzle-kit migrate",
 		"db:migrate:local": "wrangler d1 migrations apply mocks-db --local",
 		"db:migrate:remote": "wrangler d1 migrations apply mocks-db --remote",
 		"db:seed:mocks:local": "wrangler d1 execute mocks-db --local --file=./scripts/seed-mocks.sql",
