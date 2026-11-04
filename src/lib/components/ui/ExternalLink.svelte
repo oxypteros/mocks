@@ -25,7 +25,7 @@
 		className
 	)}
 	>{@render children()}<IconArrowUpRight
-		class={cn('ml-[0.1em] inline size-[1.15em] align-[-0.95em] text-on-surface-muted', iconClass)}
+		class={cn('ml-[0.1em] inline size-[0.95em] align-[-0.125em] text-on-surface-muted', iconClass)}
 		aria-hidden="true"
 	/><span class="sr-only"> (opens in a new tab)</span></a
 >
