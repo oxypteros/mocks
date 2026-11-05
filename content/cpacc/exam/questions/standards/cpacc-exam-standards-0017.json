@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-standards-0017",
+	"module": "standards",
+	"type": "single",
+	"stem": "In the Business Disability Forum's Accessibility Maturity Model, what characterizes Level 1 (Informal)?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Accessibility activities are reactive and driven by isolated champions without centralized strategy or organizational coordination.",
+			"shortLabel": "Reactive efforts led by isolated champions",
+			"rationale": "In Level 1 (Informal), there is no centralized strategy, governance, or documented policy; accessibility relies entirely on the ad hoc goodwill of isolated individuals reacting to immediate issues."
+		},
+		{
+			"id": "option-2",
+			"text": "Accessibility performance is measured through formal KPIs, periodic audits, and management review cycles across the business units.",
+			"shortLabel": "Quantitative KPIs and operational metrics",
+			"rationale": "Managing accessibility through quantitative metrics, formal performance targets, and regular operational audits defines Level 4 (Managed)."
+		},
+		{
+			"id": "option-3",
+			"text": "Accessibility policies and technical standards are documented, but adoption varies between business units and regions.",
+			"shortLabel": "Documented standards with inconsistent adoption",
+			"rationale": "Formally documenting policies and standards while implementation remains patchy or siloed is the defining characteristic of Level 2 (Defined)."
+		},
+		{
+			"id": "option-4",
+			"text": "Accessibility practices and training are built into regular development, procurement, and content workflows.",
+			"shortLabel": "Standardized processes embedded in workflows",
+			"rationale": "Embedding consistent, repeatable processes, training, and tools across regular business operations characterizes Level 3 (Repeatable)."
+		}
+	],
+	"correctOptionId": "option-1",
+	"explanation": "The Business Disability Forum's Accessibility Maturity Model benchmarks an organization's maturity across five levels: Level 1 (Informal - ad hoc, reactive actions by isolated individuals without enterprise strategy), Level 2 (Defined - policies and standards are documented but applied unevenly), Level 3 (Repeatable - processes are embedded predictably into workflows), Level 4 (Managed - quantitative KPIs and audits are tracked as standard business operations), and Level 5 (Best practice - continuous innovation and industry leadership).",
+	"references": [
+		{
+			"kind": "web",
+			"title": "Business Disability Forum: Accessibility Maturity Model",
+			"url": "https://businessdisabilityforum.org.uk/knowledge-hub/technology/accessibility-maturity-model/"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["management-strategies", "maturity-models"],
+	"status": "published",
+	"provenance": "llm_assisted",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-10-31"
+}

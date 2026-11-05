@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-standards-0013",
+	"module": "standards",
+	"type": "single",
+	"stem": "Under the European Web Accessibility Directive (Directive 2016/2102), what transparency requirement must public sector bodies fulfill on their websites?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "They publish an accessibility statement, an accessible feedback mechanism, and a link to national enforcement procedures.",
+			"shortLabel": "Accessibility statement, feedback, and enforcement link",
+			"rationale": "Article 7 of Directive (EU) 2016/2102 explicitly requires public sector bodies to provide a detailed accessibility statement, an accessible feedback mechanism for reporting barriers, and a direct link to the competent enforcement procedure."
+		},
+		{
+			"id": "option-2",
+			"text": "They publish a detailed conformance report for each website but do not provide a feedback mechanism.",
+			"shortLabel": "Conformance report without feedback route",
+			"rationale": "Article 7 requires an accessibility statement, a feedback mechanism, and a link to enforcement; a conformance report alone does not satisfy the transparency requirement."
+		},
+		{
+			"id": "option-3",
+			"text": "They display a WCAG conformance badge issued by a nationally accredited certification body.",
+			"shortLabel": "Accredited WCAG conformance badge",
+			"rationale": "The directive permits self-assessment and does not require third-party certification or a WCAG badge."
+		},
+		{
+			"id": "option-4",
+			"text": "They publish an accessibility policy reviewed annually by the national enforcement body, without a statement of non-accessible content.",
+			"shortLabel": "Policy review without non-accessible content",
+			"rationale": "The accessibility statement must identify non-accessible content and provide feedback and enforcement routes; annual review by the enforcement body is not the prescribed mechanism."
+		}
+	],
+	"correctOptionId": "option-1",
+	"explanation": "Directive (EU) 2016/2102 requires public sector bodies across EU member states to ensure their websites and mobile applications conform to accessibility standards (EN 301 549 / WCAG). Under Article 7, organizations must fulfill a specific three-pillar transparency requirement: (1) publish a detailed accessibility statement explaining compliance status and non-accessible content, (2) provide a feedback mechanism allowing users to notify the organization of barriers, and (3) include a link to the enforcement body to which users can escalate unaddressed complaints.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "European Commission: Web Accessibility Directive",
+			"url": "https://digital-strategy.ec.europa.eu/en/policies/web-accessibility"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["eu-directives", "web-accessibility-directive"],
+	"status": "published",
+	"provenance": "llm_assisted",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-10-31"
+}

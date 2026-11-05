@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-standards-0004",
+	"module": "standards",
+	"type": "single",
+	"stem": "What historical milestone distinguishes the 1999 Inter-American Convention on the Elimination of All Forms of Discrimination Against Persons with Disabilities?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "It was the first universal United Nations treaty to establish legally binding human rights protections for persons with disabilities.",
+			"shortLabel": "First global UN disability treaty",
+			"rationale": "The UN Convention on the Rights of Persons with Disabilities (CRPD), adopted in 2006, was the first universal global treaty; the 1999 Inter-American Convention was an earlier regional treaty adopted by the OAS."
+		},
+		{
+			"id": "option-2",
+			"text": "It was the first regional, legally binding treaty specifically dedicated to eliminating discrimination against persons with disabilities.",
+			"shortLabel": "First regional binding disability treaty",
+			"rationale": "Adopted by the Organization of American States (OAS) in Guatemala in 1999, it predated the UN CRPD by seven years as the world's first regional, legally binding convention dedicated to disability rights."
+		},
+		{
+			"id": "option-3",
+			"text": "It was the first international instrument to establish non-binding benchmark guidelines for national disability policy and social inclusion.",
+			"shortLabel": "First non-binding global policy guidelines",
+			"rationale": "The 1993 UN Standard Rules on the Equalization of Opportunities established non-binding global benchmarks; the 1999 Inter-American Convention was a legally binding regional treaty."
+		},
+		{
+			"id": "option-4",
+			"text": "It was the first multilateral treaty to mandate compulsory private-sector employment quotas for workers with physical impairments.",
+			"shortLabel": "First treaty mandating private employment quotas",
+			"rationale": "The Inter-American Convention establishes broad civil rights and non-discrimination mandates; it does not mandate specific private-sector employment quotas."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "Adopted in Guatemala in 1999 by the Organization of American States (OAS), the Inter-American Convention on the Elimination of All Forms of Discrimination Against Persons with Disabilities was the world's first regional, legally binding treaty that explicitly addressed and prohibited disability discrimination. It served as a vital regional forerunner to the 2006 United Nations CRPD.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "Inter-American Convention on the Elimination of All Forms of Discrimination Against Persons with Disabilities",
+			"author": "Organization of American States (OAS)",
+			"year": "1999",
+			"url": "https://www.oas.org/juridico/english/treaties/a-65.html"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["regional-instruments", "anti-discrimination"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-10-31"
+}

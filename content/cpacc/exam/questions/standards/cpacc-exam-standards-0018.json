@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-standards-0018",
+	"module": "standards",
+	"type": "single",
+	"stem": "Why is appointing internal executive and management champions critical for organizational accessibility programs?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "They ensure accessibility is managed by a single dedicated team rather than distributed across business units.",
+			"shortLabel": "Centralized dedicated accessibility team",
+			"rationale": "Executive champions work to embed accessibility across functions; concentrating ownership in one team can create silos and does not require executive sponsorship."
+		},
+		{
+			"id": "option-2",
+			"text": "They approve the annual accessibility budget but delegate strategy and prioritization to technical teams.",
+			"shortLabel": "Budget approval without strategic direction",
+			"rationale": "Budget approval alone is insufficient; champions also set strategy, remove organizational barriers, and sustain prioritization."
+		},
+		{
+			"id": "option-3",
+			"text": "They provide strategic leadership, secure funding, and embed accessibility into corporate priorities.",
+			"shortLabel": "Provide strategic leadership and secure resources",
+			"rationale": "Management champions are vital because they align accessibility with core business strategy, secure sustained funding and staffing, and ensure accessibility remains an enduring cultural priority rather than a one-off project."
+		},
+		{
+			"id": "option-4",
+			"text": "They serve as the organization's primary point of contact for external accessibility audits and regulatory inquiries.",
+			"shortLabel": "Primary liaison for audits and regulators",
+			"rationale": "Serving as audit liaison is an operational compliance task; champions operate at a strategic and cultural level."
+		}
+	],
+	"correctOptionId": "option-3",
+	"explanation": "Executive and management champions serve as strategic sponsors and visible advocates within an organization. Their primary value lies in breaking down organizational silos, aligning accessibility with broader business goals, securing ongoing budget and staffing, and embedding inclusive practices into the organizational culture so accessibility is managed as an enduring program rather than an isolated, short-term project.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 1,
+	"tags": ["management-strategies", "governance"],
+	"status": "published",
+	"provenance": "llm_assisted",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-10-31"
+}

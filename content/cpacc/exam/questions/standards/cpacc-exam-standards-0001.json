@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-standards-0001",
+	"module": "standards",
+	"type": "single",
+	"stem": "What fundamental legal and social transformation does the United Nations Convention on the Rights of Persons with Disabilities (CRPD) represent?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "A shift toward treating accessibility as a procurement condition enforced through binding international trade agreements and contracts.",
+			"shortLabel": "Accessibility as a trade procurement condition",
+			"rationale": "The CRPD establishes human rights obligations for states parties; it does not regulate trade agreements or enforce accessibility through trade law or public procurement contracts."
+		},
+		{
+			"id": "option-2",
+			"text": "A shift toward harmonizing national disability definitions, eligibility criteria, and statistics through a single UN technical standard.",
+			"shortLabel": "Harmonized UN disability definition and statistics",
+			"rationale": "The CRPD treats disability as an evolving concept and does not impose a single definition, eligibility standard, or statistical methodology on states parties."
+		},
+		{
+			"id": "option-3",
+			"text": "A shift from viewing persons with disabilities as objects of charity and medical care to active subjects with enforceable human rights.",
+			"shortLabel": "Objects of charity to subjects with rights",
+			"rationale": "The CRPD marks a historic paradigm shift from traditional charity and medical models to the human rights model, recognizing people with disabilities as full rights-holders entitled to equal dignity, autonomy, and social participation."
+		},
+		{
+			"id": "option-4",
+			"text": "A shift toward prioritizing prevention, treatment, and rehabilitation within national public health and social welfare systems.",
+			"shortLabel": "Priority on prevention and rehabilitation",
+			"rationale": "Prioritizing prevention, treatment, and rehabilitation reflects the medical model the CRPD critiques; the convention instead targets societal barriers and enforceable rights."
+		}
+	],
+	"correctOptionId": "option-3",
+	"explanation": "The United Nations Convention on the Rights of Persons with Disabilities (CRPD) represents what the UN officially terms a 'paradigm shift.' It moves international law away from traditional paternalistic approaches—which viewed people with disabilities as passive 'objects' of charity, medical care, or social welfare—toward the human rights model, which views them as active 'subjects' with equal human rights, legal capacity, and fundamental freedoms.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "Convention on the Rights of Persons with Disabilities (CRPD)",
+			"author": "United Nations General Assembly",
+			"year": "2006",
+			"url": "https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html"
+		}
+	],
+	"images": [],
+	"difficulty": 1,
+	"tags": ["international-conventions", "crpd"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-10-31"
+}

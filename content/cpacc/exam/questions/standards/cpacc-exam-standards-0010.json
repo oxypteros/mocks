@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-standards-0010",
+	"module": "standards",
+	"type": "single",
+	"stem": "Which travel sector is regulated by the Air Carrier Access Act (ACAA)?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Municipal airport passenger terminals, concourses, and landside gate facilities.",
+			"shortLabel": "Airport passenger terminals",
+			"rationale": "Physical airport terminals and landside facilities operated by public airport authorities are governed by Title II of the Americans with Disabilities Act (ADA) and Section 504 of the Rehabilitation Act, not the ACAA."
+		},
+		{
+			"id": "option-2",
+			"text": "General aviation operations, private corporate aircraft, and non-commercial flights.",
+			"shortLabel": "General aviation and private flights",
+			"rationale": "The ACAA applies specifically to commercial passenger air carriers; general aviation and private corporate flights fall outside of ACAA accessibility mandates."
+		},
+		{
+			"id": "option-3",
+			"text": "Commercial passenger air carriers operating flights within, to, or from the United States.",
+			"shortLabel": "Commercial passenger air carriers",
+			"rationale": "The Air Carrier Access Act (ACAA) specifically applies to domestic and foreign commercial airlines operating scheduled or chartered passenger flights within, to, or from the United States."
+		},
+		{
+			"id": "option-4",
+			"text": "Airport inter-terminal automated people movers, shuttle buses, and on-airport transit.",
+			"shortLabel": "Airport inter-terminal transit",
+			"rationale": "Airport-operated inter-terminal transit systems, automated people movers, and shuttles are governed by the Americans with Disabilities Act (ADA Titles II and III), not the ACAA."
+		}
+	],
+	"correctOptionId": "option-3",
+	"explanation": "The Air Carrier Access Act (ACAA) prohibits commercial airlines from discriminating against passengers with disabilities. It covers domestic carriers as well as foreign flights traveling to or from the United States, mandating accessible ticketing, boarding, seating, and inflight services.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "US Department of Transportation: About the Air Carrier Access Act",
+			"url": "https://www.transportation.gov/airconsumer/passengers-disabilities"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["domain-specific-laws", "transportation"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-10-31"
+}

@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-standards-0011",
+	"module": "standards",
+	"type": "single",
+	"stem": "Under the European Union Public Procurement Directive (Directive 2014/24/EU), what is required when public entities procure products intended for human use?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Accessibility is treated as an award criterion but omitted from the mandatory technical specifications.",
+			"shortLabel": "Award criterion outside technical specs",
+			"rationale": "Article 42(1) requires accessibility in the technical specifications themselves; treating it only as an award criterion does not satisfy the directive."
+		},
+		{
+			"id": "option-2",
+			"text": "Accessibility is addressed through post-award contract performance clauses rather than at the tender specification stage.",
+			"shortLabel": "Post-award performance clauses",
+			"rationale": "Accessibility must be built into the technical specifications before award; post-award performance clauses cannot substitute for that requirement."
+		},
+		{
+			"id": "option-3",
+			"text": "Accessibility criteria are limited to physical products, excluding software and digital services.",
+			"shortLabel": "Limited to physical products",
+			"rationale": "Article 42 applies to products and services intended for persons, including ICT and digital services; it is not limited to physical products."
+		},
+		{
+			"id": "option-4",
+			"text": "Accessibility criteria are incorporated into the technical specifications or addressed through a Design for All approach.",
+			"shortLabel": "Mandatory accessibility criteria or Design for All",
+			"rationale": "Article 42(1) of Directive 2014/24/EU explicitly establishes that technical specifications must take into account accessibility criteria for persons with disabilities or incorporate Design for All for all tenders intended for human use."
+		}
+	],
+	"correctOptionId": "option-4",
+	"explanation": "Directive 2014/24/EU modernizes public procurement across the European Union. Under Article 42(1), for all procurement intended for use by natural persons (whether the public or employees of the contracting authority), technical specifications must be drawn up to take into account accessibility criteria for persons with disabilities or a Design for All approach. This legal mandate serves as the cornerstone for applying technical accessibility standards like EN 301 549 across European public tenders.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "Directive 2014/24/EU on public procurement and repealing Directive 2004/18/EC",
+			"author": "European Parliament and Council of the European Union",
+			"year": "2014",
+			"url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014L0024"
+		}
+	],
+	"images": [],
+	"difficulty": 4,
+	"tags": ["procurement-laws", "eu-directives"],
+	"status": "published",
+	"provenance": "llm_assisted",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-10-31"
+}

@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-standards-0020",
+	"module": "standards",
+	"type": "single",
+	"stem": "When procuring third-party commercial software, how should an enterprise verify a vendor's accessibility claims?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "By obtaining a current ACR/VPAT and relying on the vendor's contractual warranty of conformance.",
+			"shortLabel": "ACR/VPAT plus contractual warranty",
+			"rationale": "An ACR/VPAT plus a warranty does not verify the accuracy of the vendor's claims or the product's actual conformance."
+		},
+		{
+			"id": "option-2",
+			"text": "By requiring the vendor to complete a security and accessibility questionnaire and attest to the final results.",
+			"shortLabel": "Vendor questionnaire and self-attestation",
+			"rationale": "Questionnaires and self-attestations are vendor assertions, not independent evidence of accessibility."
+		},
+		{
+			"id": "option-3",
+			"text": "By commissioning a third-party audit of the vendor's development process rather than the delivered product.",
+			"shortLabel": "Process audit instead of product testing",
+			"rationale": "A process audit can miss product-level barriers; verification must test the delivered interface with assistive technology."
+		},
+		{
+			"id": "option-4",
+			"text": "By reviewing the ACR/VPAT, testing the product independently, and making accessibility commitments contractual.",
+			"shortLabel": "Reviewing ACR/VPAT, testing, and contractual terms",
+			"rationale": "Thorough procurement verification requires critically analyzing the ACR/VPAT for accuracy, conducting independent manual and assistive technology testing, and securing binding contractual terms for ongoing remediation."
+		}
+	],
+	"correctOptionId": "option-4",
+	"explanation": "Procuring accessible third-party Information and Communication Technology (ICT) requires robust due diligence rather than accepting claims at face value. Organizations should: (1) Request and scrutinize a detailed Accessibility Conformance Report (ACR)—generated using the Voluntary Product Accessibility Template (VPAT)—paying close attention to detailed remarks; (2) Conduct independent validation testing using automated tools, keyboard navigation, and assistive technologies; and (3) Integrate explicit accessibility requirements, defect remediation timelines, and warranties into the final vendor contract.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "US General Services Administration: Requesting Accessibility Conformance Reports",
+			"url": "https://www.section508.gov/sell/vpat/"
+		}
+	],
+	"images": [],
+	"difficulty": 5,
+	"tags": ["procurement", "vpat"],
+	"status": "published",
+	"provenance": "llm_assisted",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-10-31"
+}

@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-standards-0005",
+	"module": "standards",
+	"type": "single",
+	"stem": "How does the African Disability Rights Protocol (ADRP) build upon the foundation of the United Nations Convention on the Rights of Persons with Disabilities (CRPD)?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "By explicitly obligating member states to eliminate harmful traditional practices, including ritual attacks and witchcraft accusations.",
+			"shortLabel": "Prohibits harmful practices and witchcraft accusations",
+			"rationale": "Article 11 of the ADRP explicitly obligates states parties to combat and criminalize harmful cultural practices, such as ritual killings, mutilation (frequently targeting persons with albinism), abandonment, and witchcraft allegations."
+		},
+		{
+			"id": "option-2",
+			"text": "By establishing a regional disability rights court with binding jurisdiction over individual complaints from member states.",
+			"shortLabel": "Regional disability rights court",
+			"rationale": "The Protocol does not create a new court; it works through the existing African Commission and African Court on Human and Peoples' Rights."
+		},
+		{
+			"id": "option-3",
+			"text": "By creating a dedicated African Union fund that finances assistive technology and accessibility projects across the continent.",
+			"shortLabel": "Dedicated AU assistive technology fund",
+			"rationale": "The Protocol does not establish a dedicated AU fund; it sets human rights obligations and calls for resources, but no such financing mechanism."
+		},
+		{
+			"id": "option-4",
+			"text": "By adding a regional definition of disability that supersedes national definitions in member state legislation.",
+			"shortLabel": "Regional definition superseding national law",
+			"rationale": "The Protocol does not supersede national definitions of disability; it establishes regional human rights obligations while leaving definitional detail to states."
+		}
+	],
+	"correctOptionId": "option-1",
+	"explanation": "While the African Disability Rights Protocol (ADRP)—adopted by the African Union in 2018—is grounded in the human rights framework of the UN CRPD, it provides crucial regional specificity. It explicitly addresses human rights violations prevalent in parts of the continent that were not detailed in the CRPD, placing binding legal obligations on African states to eliminate harmful traditional practices, including ritual attacks (such as those against individuals with albinism), concealment, infanticide, and accusations of witchcraft directed at persons with disabilities.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "Protocol to the African Charter on Human and Peoples' Rights on the Rights of Persons with Disabilities in Africa",
+			"author": "African Union",
+			"year": "2018",
+			"url": "https://au.int/en/treaties/protocol-african-charter-human-and-peoples-rights-rights-persons-disabilities-africa"
+		}
+	],
+	"images": [],
+	"difficulty": 4,
+	"tags": ["regional-instruments", "adrp"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-11-01",
+	"sourceCheckedAt": "2026-11-01"
+}

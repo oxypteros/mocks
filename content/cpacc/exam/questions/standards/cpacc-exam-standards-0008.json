@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-standards-0008",
+	"module": "standards",
+	"type": "single",
+	"stem": "What is the primary operational framework established by the Accessibility for Ontarians with Disabilities Act (AODA) in Canada?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "It establishes a reactive tribunal system that investigates and resolves individual human rights complaints submitted by affected citizens.",
+			"shortLabel": "Reactive human rights complaints tribunal",
+			"rationale": "This describes the traditional Ontario Human Rights Code framework; the AODA was specifically enacted to move beyond reactive individual complaints to proactive, population-wide standards."
+		},
+		{
+			"id": "option-2",
+			"text": "It establishes phased, proactive accessibility standards across multiple economic and civic sectors, backed by mandatory compliance reporting.",
+			"shortLabel": "Phased proactive standards across sectors",
+			"rationale": "The AODA establishes phased, proactive, and mandatory accessibility standards across five core domains (customer service, employment, info/communications, transportation, and public spaces) with required compliance reporting."
+		},
+		{
+			"id": "option-3",
+			"text": "It introduces a voluntary accreditation and tax-incentive framework that rewards commercial businesses meeting universal design benchmarks.",
+			"shortLabel": "Voluntary accreditation and tax incentives",
+			"rationale": "The AODA is a mandatory regulatory statute with administrative penalties for non-compliance, not a voluntary incentive or corporate accreditation scheme."
+		},
+		{
+			"id": "option-4",
+			"text": "It authorizes a private right of action permitting individual citizens to file civil court lawsuits for monetary statutory damages.",
+			"shortLabel": "Private civil litigation for statutory damages",
+			"rationale": "Unlike US civil rights litigation under the ADA, the AODA does not create an individual private right of action to sue for personal monetary damages; compliance is enforced by provincial administrative bodies."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "The Accessibility for Ontarians with Disabilities Act (AODA) was enacted in 2005 to transform accessibility regulation from a reactive model to a proactive one. Traditional human rights codes require an individual who faces a barrier to file a formal complaint. In contrast, the AODA proactively establishes mandatory, phased accessibility standards across five key sectors (customer service, employment, information and communications, transportation, and the design of public spaces) and enforces compliance through mandatory organizational reporting and administrative audits.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "Accessibility for Ontarians with Disabilities Act: What is the AODA?",
+			"url": "https://www.aoda.ca/what-is-the-aoda/"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["provincial-laws", "aoda"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-10-31"
+}

@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-standards-0003",
+	"module": "standards",
+	"type": "single",
+	"stem": "From a disability rights perspective, what is a notable limitation of the 1948 Universal Declaration of Human Rights (UDHR)?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "It limited its non-discrimination provision to civil and political rights, leaving economic and social rights beyond its scope.",
+			"shortLabel": "Limited non-discrimination to civil rights",
+			"rationale": "Article 2's non-discrimination guarantee applies to all rights in the UDHR, including the economic, social, and cultural rights set out in Articles 22–27."
+		},
+		{
+			"id": "option-2",
+			"text": "It made the right to education a progressive aspiration rather than an immediate entitlement at the primary level.",
+			"shortLabel": "Education framed as progressive aspiration",
+			"rationale": "Article 26(1) recognizes an immediate right to education and free compulsory elementary education; only higher education is framed as progressively available."
+		},
+		{
+			"id": "option-3",
+			"text": "It recognized disability primarily in the context of employment and vocational rehabilitation.",
+			"shortLabel": "Disability tied to employment and rehabilitation",
+			"rationale": "Disability appears in Article 25 in the context of social security and livelihood, not employment or vocational rehabilitation."
+		},
+		{
+			"id": "option-4",
+			"text": "It omitted disability from the enumerated list of protected characteristics within its foundational non-discrimination article.",
+			"shortLabel": "Omitted disability from non-discrimination clause",
+			"rationale": "Article 2 of the 1948 UDHR explicitly enumerated race, sex, language, religion, political opinion, and other categories, but omitted disability, leaving it covered only implicitly under 'other status'."
+		}
+	],
+	"correctOptionId": "option-4",
+	"explanation": "While the 1948 Universal Declaration of Human Rights (UDHR) was a landmark instrument for universal equality, disability advocates emphasize a major historical omission: Article 2 (the non-discrimination clause) explicitly listed race, color, sex, language, religion, birth, and other categories, but omitted disability. Disability was only referenced later in Article 25 as a trigger for social security and welfare, reinforcing a medical/welfare dependency mindset rather than an enforceable human right to non-discrimination.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "United Nations Office of the High Commissioner for Human Rights: Universal Declaration of Human Rights",
+			"url": "https://www.ohchr.org/en/universal-declaration-of-human-rights"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["international-conventions", "human-rights"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-10-31"
+}
