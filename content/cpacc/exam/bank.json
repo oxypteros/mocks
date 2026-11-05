@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 3,
+	"exam": "cpacc",
+	"bank": {
+		"id": "cpacc-exam",
+		"kind": "exam",
+		"title": "Mocks CPACC Exam Bank",
+		"version": "0.1.0",
+		"status": "draft",
+		"optionCount": 4
+	},
+	"modules": [
+		{
+			"id": "disabilities",
+			"title": "Disabilities, Challenges, and Assistive Technologies",
+			"questionCount": 40
+		},
+		{
+			"id": "accessibility",
+			"title": "Accessibility and Universal Design",
+			"questionCount": 40
+		},
+		{
+			"id": "standards",
+			"title": "Standards, Laws, and Management Strategies",
+			"questionCount": 20
+		}
+	]
+}
