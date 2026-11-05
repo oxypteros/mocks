@@ -27,6 +27,7 @@
 		"db:migrate:remote": "wrangler d1 migrations apply mocks-db --remote",
 		"db:seed:mocks:local": "wrangler d1 execute mocks-db --local --file=./scripts/seed-mocks.sql",
 		"db:seed:mocks:remote": "wrangler d1 execute mocks-db --remote --file=./scripts/seed-mocks.sql",
+		"db:seed:demo:local": "wrangler d1 execute mocks-db --local --file=./scripts/seed-demo.sql",
 		"bank:validate": "node scripts/bank/validate.ts",
 		"bank:length-audit": "node scripts/bank/length-audit.ts",
 		"bank:link-check": "node scripts/bank/link-check.ts",
