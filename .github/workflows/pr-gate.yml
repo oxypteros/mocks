@@ -38,13 +38,18 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
-      # `check` keeps the required `wrangler types` -> strip-global-props order
+      # `check` keeps the required `wrangler types` --> strip-global-props order
       # and runs svelte-check with --fail-on-warnings.
       - name: Svelte check (warnings are errors)
         run: pnpm check
 
       - name: Lint (Prettier + ESLint)
         run: pnpm lint
+
+      # Cross-file content rules that lint cannot see, IDs, module directories,
+      # option counts, references, duplicate content, and placeholders.
+      - name: Validate the content bank
+        run: pnpm bank:validate
 
   a11y:
     name: Accessibility (axe-core A/AA/AAA + best practices)
@@ -67,11 +72,19 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
+      # The portal reads from D1. The Playwright web server runs the built worker
+      # with local bindings, so the local D1 database must be migrated and seeded.
+      - name: Apply local D1 migrations
+        run: pnpm db:migrate:local
+
+      - name: Seed the demo bank
+        run: pnpm db:seed:demo:local
+
       - name: Install Chromium
         run: pnpm exec playwright install --with-deps chromium
 
       # Builds the Cloudflare worker, starts `wrangler dev`, and scans every
-      # route at 320px and 1280px with axe's WCAG A/AA/AAA and best-practice tags.
+      # route at 320px and 1280px with axe's WCAG and best-practice tags.
       - name: Run axe accessibility scans
         run: pnpm test:a11y
 
