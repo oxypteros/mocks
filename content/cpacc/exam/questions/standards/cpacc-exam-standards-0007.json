@@ -8,7 +8,7 @@
 			"id": "option-1",
 			"text": "Title III coverage is restricted to websites of businesses that operate a physical brick-and-mortar retail location open to the public.",
 			"shortLabel": "Restricted to physical retail locations",
-			"rationale": "Courts have generally not required a physical location for Title III web coverage; the physical-nexus theory is a defense argument, not the prevailing interpretation reflected in DOJ guidance."
+			"rationale": "Some federal courts have rejected a physical-location requirement, while others have applied a physical-nexus test; DOJ guidance does not require a physical location."
 		},
 		{
 			"id": "option-2",
@@ -24,13 +24,13 @@
 		},
 		{
 			"id": "option-4",
-			"text": "Courts and the Department of Justice interpret Title III to cover commercial websites and online services offering goods to the public.",
+			"text": "The Department of Justice and many federal courts apply Title III to commercial websites and online services offering goods to the public.",
 			"shortLabel": "Interpreted to cover commercial websites",
-			"rationale": "Because the original 1990 ADA text predates the modern web, the DOJ and federal courts have applied Title III to commercial websites and digital services by interpreting them as public accommodations or services thereof."
+			"rationale": "Because the original 1990 ADA text predates the modern web, the DOJ has consistently interpreted Title III to apply to commercial websites and digital services, and many federal courts have done the same; some courts have required a physical-location connection."
 		}
 	],
 	"correctOptionId": "option-4",
-	"explanation": "Although the Americans with Disabilities Act (ADA) was enacted in 1990 before the modern web, Congress has never amended Title III to specifically define websites. Instead, the US Department of Justice (DOJ) and prevailing federal case law interpret Title III (places of public accommodation) to apply to commercial websites, mobile apps, and online services that offer goods and services to the public. Federally funded entities are governed by Section 504, while state and local governments fall under Title II.",
+	"explanation": "Although the Americans with Disabilities Act (ADA) was enacted in 1990 before the modern web, Congress has never amended Title III to specifically define websites. Instead, the US Department of Justice (DOJ) has consistently interpreted Title III (places of public accommodation) to apply to commercial websites, mobile apps, and online services that offer goods and services to the public, and many federal courts have applied it the same way. Some courts have instead required a connection to a physical location. Federally funded entities are governed by Section 504, while state and local governments fall under Title II.",
 	"references": [
 		{
 			"kind": "web",
@@ -45,5 +45,5 @@
 	"provenance": "authored",
 	"reviewer": "Oxypteros",
 	"reviewedAt": "2026-10-31",
-	"sourceCheckedAt": "2026-10-31"
+	"sourceCheckedAt": "2026-11-05"
 }

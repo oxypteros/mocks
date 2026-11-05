@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-disabilities-0020",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "When conversing in person with a person who communicates through a sign language interpreter, which behavior conforms to proper disability etiquette?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Ask the interpreter whether the person needs any other communication support.",
+			"shortLabel": "Ask the interpreter about the person's needs",
+			"rationale": "Routing questions about the person's communication needs through the interpreter excludes the person from the conversation; ask the person directly."
+		},
+		{
+			"id": "option-2",
+			"text": "Direct your gaze toward the interpreter while they sign, then turn to the person when responding.",
+			"shortLabel": "Alternate gaze between interpreter and person",
+			"rationale": "Although following the interpretation is important, directing attention primarily toward the interpreter rather than the person can interfere with direct interpersonal communication."
+		},
+		{
+			"id": "option-3",
+			"text": "Maintain direct eye contact with the person and speak directly to them.",
+			"shortLabel": "Look and speak directly to the person",
+			"rationale": "Proper etiquette requires looking at and addressing the individual directly, acknowledging their presence and autonomy."
+		},
+		{
+			"id": "option-4",
+			"text": "Check with the interpreter that the person has understood your remarks.",
+			"shortLabel": "Check comprehension through the interpreter",
+			"rationale": "Checking comprehension with the interpreter rather than the person treats the interpreter as a go-between and excludes the person from the exchange."
+		}
+	],
+	"correctOptionId": "option-3",
+	"explanation": "When communicating through an interpreter, speak directly to the person and maintain direct eye contact with them. The interpreter facilitates interpretation as a neutral conduit; do not route questions or comprehension checks through the interpreter.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 1,
+	"tags": ["disability-etiquette", "communication"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-10-30"
+}

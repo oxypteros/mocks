@@ -6,13 +6,13 @@
 	"options": [
 		{
 			"id": "option-1",
-			"text": "To ensure that modern mobile, broadband, and internet-streamed video programming technologies are accessible to individuals with disabilities.",
+			"text": "To ensure that modern mobile, broadband, and internet-streamed video technologies are accessible to individuals with disabilities.",
 			"shortLabel": "Accessible broadband, mobile, and IP video",
-			"rationale": "Enacted in 2010, the CVAA updated federal communications law to mandate that advanced communications services (including VoIP, video conferencing, and mobile browsers) and IP-delivered video are accessible to people with disabilities."
+			"rationale": "Enacted in 2010, the CVAA updated federal communications law to require accessible advanced communications services (such as VoIP, electronic messaging, and video conferencing), accessible web browsers on mobile devices, and accessible IP-delivered video."
 		},
 		{
 			"id": "option-2",
-			"text": "To mandate that federal government agencies procure and maintain accessible electronic information technologies and public digital documentation.",
+			"text": "To mandate that federal agencies procure and maintain accessible electronic information technologies and public documentation.",
 			"shortLabel": "Federal agency ICT procurement",
 			"rationale": "The procurement, development, and maintenance of accessible information and communication technology by federal agencies is governed by Section 508 of the Rehabilitation Act, not the CVAA."
 		},
@@ -26,11 +26,11 @@
 			"id": "option-4",
 			"text": "To govern traditional analog broadcast television captioning and wireline telephone equipment across state telecommunications utilities.",
 			"shortLabel": "Legacy wireline and broadcast captioning",
-			"rationale": "Legacy wireline telecommunications and broadcast TV closed captioning were established under Section 255 and the Telecommunications Act of 1996; the CVAA was created specifically to bridge the gap into 21st-century digital, mobile, and IP technologies."
+			"rationale": "Legacy wireline telephone access was addressed by Section 255 of the Telecommunications Act of 1996, and broadcast captioning rules predate the CVAA; the CVAA was created to extend accessibility to digital, mobile, and IP-delivered technologies."
 		}
 	],
 	"correctOptionId": "option-1",
-	"explanation": "Enacted in 2010, the Twenty-First Century Communications and Video Accessibility Act (CVAA) modernized US communications law under the Federal Communications Commission (FCC). It closed the regulatory gap between legacy telecommunications and modern digital media by requiring that Advanced Communications Services (ACS)—such as interconnected VoIP, video conferencing, text messaging, and mobile web browsers—as well as video programming delivered via the internet (IP-streamed video that previously aired on TV) are fully accessible to individuals with disabilities.",
+	"explanation": "Enacted in 2010, the Twenty-First Century Communications and Video Accessibility Act (CVAA) modernized US communications law under the Federal Communications Commission (FCC). It closed the regulatory gap between legacy telecommunications and modern digital media by requiring that Advanced Communications Services (ACS)—such as interconnected VoIP, video conferencing, and electronic messaging—be accessible, that web browsers on mobile devices be accessible, and that video programming delivered via the internet (IP-streamed video that previously aired on TV) be accessible to individuals with disabilities.",
 	"references": [
 		{
 			"kind": "web",
@@ -45,5 +45,5 @@
 	"provenance": "authored",
 	"reviewer": "Oxypteros",
 	"reviewedAt": "2026-10-31",
-	"sourceCheckedAt": "2026-10-31"
+	"sourceCheckedAt": "2026-11-05"
 }

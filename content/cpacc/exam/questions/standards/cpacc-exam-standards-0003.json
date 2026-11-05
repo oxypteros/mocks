@@ -2,7 +2,7 @@
 	"id": "cpacc-exam-standards-0003",
 	"module": "standards",
 	"type": "single",
-	"stem": "From a disability rights perspective, what is a notable limitation of the 1948 Universal Declaration of Human Rights (UDHR)?",
+	"stem": "From a disability rights perspective, which criticism of the 1948 Universal Declaration of Human Rights (UDHR) is accurate?",
 	"options": [
 		{
 			"id": "option-1",
@@ -14,7 +14,7 @@
 			"id": "option-2",
 			"text": "It made the right to education a progressive aspiration rather than an immediate entitlement at the primary level.",
 			"shortLabel": "Education framed as progressive aspiration",
-			"rationale": "Article 26(1) recognizes an immediate right to education and free compulsory elementary education; only higher education is framed as progressively available."
+			"rationale": "Article 26(1) recognizes the right to education and states that elementary education shall be free and compulsory; it does not frame primary education as a progressive aspiration."
 		},
 		{
 			"id": "option-3",
@@ -30,7 +30,7 @@
 		}
 	],
 	"correctOptionId": "option-4",
-	"explanation": "While the 1948 Universal Declaration of Human Rights (UDHR) was a landmark instrument for universal equality, disability advocates emphasize a major historical omission: Article 2 (the non-discrimination clause) explicitly listed race, color, sex, language, religion, birth, and other categories, but omitted disability. Disability was only referenced later in Article 25 as a trigger for social security and welfare, reinforcing a medical/welfare dependency mindset rather than an enforceable human right to non-discrimination.",
+	"explanation": "While the 1948 Universal Declaration of Human Rights (UDHR) was a landmark instrument for universal equality, disability advocates emphasize a major historical omission: Article 2 (the non-discrimination clause) explicitly listed race, colour, sex, language, religion, birth, and other categories, but omitted disability. The only explicit reference to disability is in Article 25, which lists it among the circumstances that create a right to security in the event of lack of livelihood, reinforcing a medical/welfare dependency mindset rather than an enforceable human right to non-discrimination.",
 	"references": [
 		{
 			"kind": "web",
@@ -45,5 +45,5 @@
 	"provenance": "authored",
 	"reviewer": "Oxypteros",
 	"reviewedAt": "2026-10-31",
-	"sourceCheckedAt": "2026-10-31"
+	"sourceCheckedAt": "2026-11-05"
 }

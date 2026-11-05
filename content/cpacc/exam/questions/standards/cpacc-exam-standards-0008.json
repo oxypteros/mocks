@@ -2,7 +2,7 @@
 	"id": "cpacc-exam-standards-0008",
 	"module": "standards",
 	"type": "single",
-	"stem": "What is the primary operational framework established by the Accessibility for Ontarians with Disabilities Act (AODA) in Canada?",
+	"stem": "What approach does the Accessibility for Ontarians with Disabilities Act (AODA) use to improve accessibility?",
 	"options": [
 		{
 			"id": "option-1",
@@ -12,7 +12,7 @@
 		},
 		{
 			"id": "option-2",
-			"text": "It establishes phased, proactive accessibility standards across multiple economic and civic sectors, backed by mandatory compliance reporting.",
+			"text": "It establishes phased, proactive accessibility standards across sectors, backed by mandatory compliance reporting.",
 			"shortLabel": "Phased proactive standards across sectors",
 			"rationale": "The AODA establishes phased, proactive, and mandatory accessibility standards across five core domains (customer service, employment, info/communications, transportation, and public spaces) with required compliance reporting."
 		},
@@ -45,5 +45,5 @@
 	"provenance": "authored",
 	"reviewer": "Oxypteros",
 	"reviewedAt": "2026-10-31",
-	"sourceCheckedAt": "2026-10-31"
+	"sourceCheckedAt": "2026-11-05"
 }

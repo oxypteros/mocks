@@ -12,8 +12,8 @@
 		},
 		{
 			"id": "option-2",
-			"text": "It was the first regional, legally binding treaty specifically dedicated to eliminating discrimination against persons with disabilities.",
-			"shortLabel": "First regional binding disability treaty",
+			"text": "It was the first legally binding treaty focused specifically on eliminating disability discrimination in the Americas.",
+			"shortLabel": "First binding disability treaty in the Americas",
 			"rationale": "Adopted by the Organization of American States (OAS) in Guatemala in 1999, it predated the UN CRPD by seven years as the world's first regional, legally binding convention dedicated to disability rights."
 		},
 		{
@@ -47,5 +47,5 @@
 	"provenance": "authored",
 	"reviewer": "Oxypteros",
 	"reviewedAt": "2026-10-31",
-	"sourceCheckedAt": "2026-10-31"
+	"sourceCheckedAt": "2026-11-05"
 }

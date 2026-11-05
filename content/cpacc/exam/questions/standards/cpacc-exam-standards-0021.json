@@ -12,15 +12,15 @@
 		},
 		{
 			"id": "option-2",
-			"text": "To create copyright exceptions that allow the production and cross-border exchange of published works in accessible formats.",
-			"shortLabel": "Copyright exceptions for accessible books",
+			"text": "To let authorized entities produce and share accessible copies of works across borders without rights-holder permission.",
+			"shortLabel": "Authorized entities share accessible copies",
 			"rationale": "The Marrakesh Treaty specifically addresses the global 'book famine' by establishing mandatory copyright exceptions and legalizing cross-border sharing of accessible formats for people with print disabilities."
 		},
 		{
 			"id": "option-3",
-			"text": "To mandate that commercial publishers manufacture and distribute accessible electronic editions concurrently with standard print releases.",
-			"shortLabel": "Mandatory commercial accessible publishing",
-			"rationale": "The Marrakesh Treaty enables authorized entities to convert and share works under copyright exceptions; it does not legally compel commercial publishers to produce accessible formats."
+			"text": "To create copyright exceptions under which commercial publishers release accessible editions alongside standard print releases.",
+			"shortLabel": "Copyright exceptions for publisher releases",
+			"rationale": "The Marrakesh Treaty enables authorized entities to convert and share works under copyright exceptions; it does not impose release obligations on commercial publishers."
 		},
 		{
 			"id": "option-4",
@@ -45,5 +45,5 @@
 	"provenance": "authored",
 	"reviewer": "Oxypteros",
 	"reviewedAt": "2026-11-01",
-	"sourceCheckedAt": "2026-11-01"
+	"sourceCheckedAt": "2026-11-05"
 }

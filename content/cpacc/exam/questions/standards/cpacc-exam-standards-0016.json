@@ -2,7 +2,7 @@
 	"id": "cpacc-exam-standards-0016",
 	"module": "standards",
 	"type": "single",
-	"stem": "What four sequential phases make up the strategic implementation approach recommended by the W3C Web Accessibility Initiative (WAI)?",
+	"stem": "What four areas of activity make up the W3C Web Accessibility Initiative (WAI) guidance for integrating accessibility across an organization?",
 	"options": [
 		{
 			"id": "option-1",
@@ -14,7 +14,7 @@
 			"id": "option-2",
 			"text": "Initiate, Plan, Implement, and Sustain.",
 			"shortLabel": "Initiate, Plan, Implement, Sustain",
-			"rationale": "The W3C WAI 'Planning and Managing Web Accessibility' framework structures enterprise-wide accessibility adoption into these four distinct organizational phases."
+			"rationale": "The W3C WAI 'Planning and Managing Web Accessibility' framework structures organizational accessibility adoption into these four areas of activity."
 		},
 		{
 			"id": "option-3",
@@ -30,7 +30,7 @@
 		}
 	],
 	"correctOptionId": "option-2",
-	"explanation": "The World Wide Web Consortium's Web Accessibility Initiative (W3C WAI) provides guidance in 'Planning and Managing Web Accessibility' structured into four strategic phases: (1) Initiate—gathering support, learning basics, and defining vision; (2) Plan—establishing accessibility policies, budgeting, and assigning roles; (3) Implement—training staff, procuring accessible tools, and integrating accessibility into everyday development; and (4) Sustain—continually monitoring conformance, engaging with users with disabilities, and adapting processes over time.",
+	"explanation": "The World Wide Web Consortium's Web Accessibility Initiative (W3C WAI) provides guidance in 'Planning and Managing Web Accessibility' structured into four areas of activity: (1) Initiate—building understanding, setting objectives, and gathering support; (2) Plan—establishing accessibility policies, budgeting, and assigning roles; (3) Implement—building skills, making tools available, and integrating accessibility into everyday work; and (4) Sustain—monitoring, engaging stakeholders, tracking standards and legislation, and adapting to new technologies. The W3C notes that these activities are not necessarily carried out in sequence and are ideally repeated over time.",
 	"references": [
 		{
 			"kind": "web",
@@ -45,5 +45,5 @@
 	"provenance": "llm_assisted",
 	"reviewer": "Oxypteros",
 	"reviewedAt": "2026-10-31",
-	"sourceCheckedAt": "2026-10-31"
+	"sourceCheckedAt": "2026-11-05"
 }

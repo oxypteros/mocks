@@ -2,25 +2,25 @@
 	"id": "cpacc-exam-standards-0017",
 	"module": "standards",
 	"type": "single",
-	"stem": "In the Business Disability Forum's Accessibility Maturity Model, what characterizes Level 1 (Informal)?",
+	"stem": "In the Business Disability Forum's Accessibility Maturity Model, what characterizes Level 1?",
 	"options": [
 		{
 			"id": "option-1",
-			"text": "Accessibility activities are reactive and driven by isolated champions without centralized strategy or organizational coordination.",
-			"shortLabel": "Reactive efforts led by isolated champions",
-			"rationale": "In Level 1 (Informal), there is no centralized strategy, governance, or documented policy; accessibility relies entirely on the ad hoc goodwill of isolated individuals reacting to immediate issues."
+			"text": "Accessibility work is ad hoc and undocumented, without a formal process or policy.",
+			"shortLabel": "Ad hoc and undocumented work",
+			"rationale": "Level 1 (Informal) is defined by the absence of documentation or process; accessibility work is ad hoc and undocumented."
 		},
 		{
 			"id": "option-2",
-			"text": "Accessibility performance is measured through formal KPIs, periodic audits, and management review cycles across the business units.",
-			"shortLabel": "Quantitative KPIs and operational metrics",
-			"rationale": "Managing accessibility through quantitative metrics, formal performance targets, and regular operational audits defines Level 4 (Managed)."
+			"text": "Accessibility processes are monitored and improved as standard business practice across the organization.",
+			"shortLabel": "Monitored and improved as business practice",
+			"rationale": "Monitoring and improving processes as standard business practice defines Level 4 (Managed)."
 		},
 		{
 			"id": "option-3",
-			"text": "Accessibility policies and technical standards are documented, but adoption varies between business units and regions.",
-			"shortLabel": "Documented standards with inconsistent adoption",
-			"rationale": "Formally documenting policies and standards while implementation remains patchy or siloed is the defining characteristic of Level 2 (Defined)."
+			"text": "Accessibility policies and standards are documented, but they are not consistently actioned.",
+			"shortLabel": "Documented but not consistently actioned",
+			"rationale": "Documents exist but are not consistently actioned is the defining characteristic of Level 2 (Defined)."
 		},
 		{
 			"id": "option-4",
@@ -30,12 +30,19 @@
 		}
 	],
 	"correctOptionId": "option-1",
-	"explanation": "The Business Disability Forum's Accessibility Maturity Model benchmarks an organization's maturity across five levels: Level 1 (Informal - ad hoc, reactive actions by isolated individuals without enterprise strategy), Level 2 (Defined - policies and standards are documented but applied unevenly), Level 3 (Repeatable - processes are embedded predictably into workflows), Level 4 (Managed - quantitative KPIs and audits are tracked as standard business operations), and Level 5 (Best practice - continuous innovation and industry leadership).",
+	"explanation": "The Business Disability Forum's Accessibility Maturity Model benchmarks an organization's maturity across five levels: Level 1 (Informal - ad hoc, with no documentation or process in place), Level 2 (Defined - policies and standards are documented but not consistently actioned), Level 3 (Repeatable - processes are established and actioned consistently), Level 4 (Managed - processes are monitored and improved as standard business practice), and Level 5 (Best practice - continuous improvement and sharing of best practice).",
 	"references": [
 		{
 			"kind": "web",
 			"title": "Business Disability Forum: Accessibility Maturity Model",
 			"url": "https://businessdisabilityforum.org.uk/knowledge-hub/technology/accessibility-maturity-model/"
+		},
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
 		}
 	],
 	"images": [],
@@ -45,5 +52,5 @@
 	"provenance": "llm_assisted",
 	"reviewer": "Oxypteros",
 	"reviewedAt": "2026-10-31",
-	"sourceCheckedAt": "2026-10-31"
+	"sourceCheckedAt": "2026-11-05"
 }

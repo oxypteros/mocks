@@ -2,13 +2,13 @@
 	"id": "cpacc-exam-standards-0002",
 	"module": "standards",
 	"type": "single",
-	"stem": "What is the primary mechanism established by the Marrakesh Treaty to end the global _\"book famine\"_ for persons who are blind or print disabled?",
+	"stem": "What is the primary mechanism established by the Marrakesh Treaty to address the 'book famine' for persons who are blind or print disabled?",
 	"options": [
 		{
 			"id": "option-1",
-			"text": "It creates mandatory copyright exceptions enabling authorized entities to produce, distribute, and cross-border export accessible-format works.",
+			"text": "It creates mandatory copyright exceptions letting authorized entities produce, distribute, and export accessible formats across borders.",
 			"shortLabel": "Copyright exceptions and cross-border exchange",
-			"rationale": "The Marrakesh Treaty requires contracting nations to create exceptions to copyright law, allowing authorized entities to produce, distribute, and export accessible formats without rights-holder authorization."
+			"rationale": "The Marrakesh Treaty requires Contracting Parties to create exceptions to copyright law, allowing authorized entities to produce, distribute, and export accessible formats without rights-holder authorization."
 		},
 		{
 			"id": "option-2",
@@ -30,7 +30,7 @@
 		}
 	],
 	"correctOptionId": "option-1",
-	"explanation": "Administered by the World Intellectual Property Organization (WIPO), the Marrakesh Treaty addresses the global 'book famine'—wherein fewer than 10% of published works are available in accessible formats. Its primary legal mechanism requires signatory nations to introduce copyright exceptions and limitations, allowing designated 'authorized entities' (such as libraries for the blind) to create and share accessible formats (braille, audio, large print, accessible digital text) across international borders without needing permission or paying royalties to copyright holders.",
+	"explanation": "Administered by the World Intellectual Property Organization (WIPO), the Marrakesh Treaty addresses the global 'book famine'—the shortage of published works available in accessible formats. Its primary legal mechanism requires Contracting Parties to introduce copyright exceptions and limitations, allowing designated 'authorized entities' (such as libraries for the blind) to create and share accessible formats (braille, audio, large print, accessible digital text) across international borders without needing permission from copyright holders.",
 	"references": [
 		{
 			"kind": "web",
@@ -45,5 +45,5 @@
 	"provenance": "authored",
 	"reviewer": "Oxypteros",
 	"reviewedAt": "2026-10-31",
-	"sourceCheckedAt": "2026-10-31"
+	"sourceCheckedAt": "2026-11-05"
 }

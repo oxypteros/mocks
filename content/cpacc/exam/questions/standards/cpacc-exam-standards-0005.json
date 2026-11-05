@@ -6,13 +6,13 @@
 	"options": [
 		{
 			"id": "option-1",
-			"text": "By explicitly obligating member states to eliminate harmful traditional practices, including ritual attacks and witchcraft accusations.",
+			"text": "By explicitly obligating states parties to eliminate harmful traditional practices, including ritual killings and witchcraft accusations.",
 			"shortLabel": "Prohibits harmful practices and witchcraft accusations",
-			"rationale": "Article 11 of the ADRP explicitly obligates states parties to combat and criminalize harmful cultural practices, such as ritual killings, mutilation (frequently targeting persons with albinism), abandonment, and witchcraft allegations."
+			"rationale": "Article 11(1) of the ADRP requires states parties to take measures and impose legal sanctions to eliminate harmful practices, including witchcraft, abandonment, concealment, and ritual killings."
 		},
 		{
 			"id": "option-2",
-			"text": "By establishing a regional disability rights court with binding jurisdiction over individual complaints from member states.",
+			"text": "By establishing a regional disability rights court with binding jurisdiction over individual complaints against member states.",
 			"shortLabel": "Regional disability rights court",
 			"rationale": "The Protocol does not create a new court; it works through the existing African Commission and African Court on Human and Peoples' Rights."
 		},
@@ -20,7 +20,7 @@
 			"id": "option-3",
 			"text": "By creating a dedicated African Union fund that finances assistive technology and accessibility projects across the continent.",
 			"shortLabel": "Dedicated AU assistive technology fund",
-			"rationale": "The Protocol does not establish a dedicated AU fund; it sets human rights obligations and calls for resources, but no such financing mechanism."
+			"rationale": "The Protocol does not establish a dedicated AU fund; it sets human rights obligations and calls for resources, but it creates no such financing mechanism."
 		},
 		{
 			"id": "option-4",
@@ -30,7 +30,7 @@
 		}
 	],
 	"correctOptionId": "option-1",
-	"explanation": "While the African Disability Rights Protocol (ADRP)—adopted by the African Union in 2018—is grounded in the human rights framework of the UN CRPD, it provides crucial regional specificity. It explicitly addresses human rights violations prevalent in parts of the continent that were not detailed in the CRPD, placing binding legal obligations on African states to eliminate harmful traditional practices, including ritual attacks (such as those against individuals with albinism), concealment, infanticide, and accusations of witchcraft directed at persons with disabilities.",
+	"explanation": "While the African Disability Rights Protocol (ADRP)—adopted by the African Union in 2018—is grounded in the human rights framework of the UN CRPD, it provides crucial regional specificity. It explicitly addresses human rights violations prevalent in parts of the continent that were not detailed in the CRPD, setting binding obligations for states parties to eliminate harmful traditional practices, including ritual killings (such as those against individuals with albinism), abandonment, concealment, and accusations of witchcraft directed at persons with disabilities.",
 	"references": [
 		{
 			"kind": "publication",
@@ -41,11 +41,11 @@
 		}
 	],
 	"images": [],
-	"difficulty": 4,
+	"difficulty": 3,
 	"tags": ["regional-instruments", "adrp"],
 	"status": "published",
 	"provenance": "authored",
 	"reviewer": "Oxypteros",
 	"reviewedAt": "2026-11-01",
-	"sourceCheckedAt": "2026-11-01"
+	"sourceCheckedAt": "2026-11-05"
 }

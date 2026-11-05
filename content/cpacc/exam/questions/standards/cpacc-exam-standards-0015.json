@@ -2,35 +2,35 @@
 	"id": "cpacc-exam-standards-0015",
 	"module": "standards",
 	"type": "single",
-	"stem": "Which range of products and services is covered under the European Accessibility Act (Directive 2019/882)?",
+	"stem": "Which of the following is covered by the European Accessibility Act (Directive 2019/882)?",
 	"options": [
 		{
 			"id": "option-1",
-			"text": "Prescription medical devices, hospital patient monitors, and specialized clinical diagnostic health equipment.",
+			"text": "Prescription medical devices, digital patient monitors, and specialized clinical diagnostic equipment.",
 			"shortLabel": "Medical devices and hospital equipment",
-			"rationale": "Medical devices, clinical monitors, and specialized diagnostic healthcare equipment are regulated separately under the EU Medical Device Regulation (MDR), not the European Accessibility Act."
+			"rationale": "The EAA's scope is limited to the products and services listed in the directive; prescription medical devices and clinical diagnostic equipment are not on that list."
 		},
 		{
 			"id": "option-2",
 			"text": "Residential housing architecture, municipal pedestrian walkways, and physical brick-and-mortar commercial buildings.",
 			"shortLabel": "Physical buildings and pedestrian walkways",
-			"rationale": "The EAA does not establish mandatory EU-wide harmonized standards for physical architecture or the built environment; regulating physical buildings was left to the discretion of individual member states."
+			"rationale": "The EAA's product and service list does not cover residential buildings, pedestrian walkways, or general commercial buildings."
 		},
 		{
 			"id": "option-3",
-			"text": "Traditional domestic household appliances, including analog kitchen cooking stoves, refrigerators, and washing machines.",
-			"shortLabel": "Domestic household white goods",
-			"rationale": "The EAA specifically targets digital computing hardware, telecommunications, self-service terminals, and electronic services; traditional domestic white goods are excluded from its scope."
+			"text": "Connected household appliances, including smart refrigerators, washing machines, and kitchen ovens.",
+			"shortLabel": "Connected household appliances",
+			"rationale": "The EAA's product list covers specified ICT products such as computers, smartphones, ATMs, ticketing machines, and TV equipment; household appliances are not included."
 		},
 		{
 			"id": "option-4",
-			"text": "Key consumer digital products and services, including ATMs, smartphones, e-books, e-commerce, and online banking.",
+			"text": "Consumer digital products and services such as ATMs, smartphones, e-books, and online banking.",
 			"shortLabel": "Consumer digital products and services",
-			"rationale": "Under Article 2 of Directive 2019/882, the EAA specifically targets key private-sector consumer hardware (smartphones, computers, ATMs, ticketing machines, e-readers) and digital services (e-commerce, banking, passenger transport interfaces, and e-books)."
+			"rationale": "Under Article 2 of Directive 2019/882, the EAA covers listed consumer products (computers, smartphones, ATMs, ticketing machines, TV equipment) and services (e-commerce, banking, e-books, passenger transport)."
 		}
 	],
 	"correctOptionId": "option-4",
-	"explanation": "The European Accessibility Act (Directive 2019/882) harmonizes accessibility requirements across the EU internal market for a targeted list of private-sector consumer products and services. Its scope covers consumer hardware (computers, operating systems, smartphones, ATMs, ticketing and check-in kiosks, e-readers) and consumer services (e-commerce, consumer banking, e-books, and digital passenger transport interfaces). It does not mandate harmonized rules for the physical built environment, nor does it cover medical devices or domestic household appliances.",
+	"explanation": "The European Accessibility Act (Directive 2019/882) harmonizes accessibility requirements across the EU internal market for a targeted list of private-sector consumer products and services. Its scope covers consumer hardware (computers, operating systems, smartphones, ATMs, ticketing and check-in machines, and TV equipment) and consumer services (e-commerce, consumer banking, e-books, and passenger transport services). Its product and service list does not include prescription medical or clinical equipment, the built environment, or household appliances.",
 	"references": [
 		{
 			"kind": "web",
@@ -45,5 +45,5 @@
 	"provenance": "llm_assisted",
 	"reviewer": "Oxypteros",
 	"reviewedAt": "2026-10-31",
-	"sourceCheckedAt": "2026-10-31"
+	"sourceCheckedAt": "2026-11-05"
 }

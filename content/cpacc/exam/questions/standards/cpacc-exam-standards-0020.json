@@ -18,8 +18,8 @@
 		},
 		{
 			"id": "option-3",
-			"text": "By commissioning a third-party audit of the vendor's development process rather than the delivered product.",
-			"shortLabel": "Process audit instead of product testing",
+			"text": "By auditing the vendor's development process, reviewing its conformance report, and requiring remediation commitments.",
+			"shortLabel": "Process audit with remediation commitments",
 			"rationale": "A process audit can miss product-level barriers; verification must test the delivered interface with assistive technology."
 		},
 		{
@@ -30,20 +30,25 @@
 		}
 	],
 	"correctOptionId": "option-4",
-	"explanation": "Procuring accessible third-party Information and Communication Technology (ICT) requires robust due diligence rather than accepting claims at face value. Organizations should: (1) Request and scrutinize a detailed Accessibility Conformance Report (ACR)—generated using the Voluntary Product Accessibility Template (VPAT)—paying close attention to detailed remarks; (2) Conduct independent validation testing using automated tools, keyboard navigation, and assistive technologies; and (3) Integrate explicit accessibility requirements, defect remediation timelines, and warranties into the final vendor contract.",
+	"explanation": "Procuring accessible third-party Information and Communication Technology (ICT) requires robust due diligence rather than accepting claims at face value. Organizations should: (1) Request and scrutinize a detailed Accessibility Conformance Report (ACR)—generated using the Voluntary Product Accessibility Template (VPAT)—paying close attention to detailed remarks; (2) Conduct independent validation testing using automated tools, keyboard navigation, and assistive technologies; and (3) Integrate explicit accessibility requirements and defect remediation timelines into the final vendor contract.",
 	"references": [
 		{
 			"kind": "web",
-			"title": "US General Services Administration: Requesting Accessibility Conformance Reports",
-			"url": "https://www.section508.gov/sell/vpat/"
+			"title": "US General Services Administration: Accessibility Conformance Report (ACR)",
+			"url": "https://www.section508.gov/sell/acr/"
+		},
+		{
+			"kind": "web",
+			"title": "US General Services Administration: Understanding Vendor Claims in Accessibility Conformance Reports",
+			"url": "https://www.section508.gov/buy/understand-claims/"
 		}
 	],
 	"images": [],
-	"difficulty": 5,
+	"difficulty": 3,
 	"tags": ["procurement", "vpat"],
 	"status": "published",
 	"provenance": "llm_assisted",
 	"reviewer": "Oxypteros",
 	"reviewedAt": "2026-10-31",
-	"sourceCheckedAt": "2026-10-31"
+	"sourceCheckedAt": "2026-11-05"
 }
