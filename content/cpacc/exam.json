@@ -1,0 +1,20 @@
+{
+	"id": "cpacc",
+	"slug": "cpacc",
+	"title": "CPACC",
+	"provider": "IAAP",
+	"providerUrl": "https://www.accessibilityassociation.org/cpacc",
+	"unofficial": true,
+	"contentLocale": "en",
+	"blueprintVersion": "TBD",
+	"durationMinutes": 120,
+	"questionCount": 100,
+	"optionCount": 4,
+	"passPercent": 80,
+	"sampling": "stratified",
+	"questionOrder": "mixed",
+	"optionOrder": "shuffle",
+	"optionLabelStyle": "numeric",
+	"disclaimer": "The official CPACC exam is administered by IAAP, which sets the curriculum, fees, booking, scoring and proctoring.",
+	"status": "draft"
+}
