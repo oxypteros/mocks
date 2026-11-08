@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-accessibility-0010",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "In physical architecture, how do statutory minimum building standards differ from universal design best practices?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Statutory minimum standards pursue full inclusion, while universal design practices focus on basic legal compliance.",
+			"shortLabel": "Minimums pursue inclusion; UD is basic",
+			"rationale": "The relationship is the opposite: minimum standards define baseline legal compliance, while universal design pursues fuller inclusion."
+		},
+		{
+			"id": "option-2",
+			"text": "Statutory minimum standards apply mainly to housing, whereas universal design applies mainly to transport hubs.",
+			"shortLabel": "Housing vs transport hubs",
+			"rationale": "Building standards apply across public and commercial structures, and universal design applies to all building types."
+		},
+		{
+			"id": "option-3",
+			"text": "Minimum standards treat ramps as optional, whereas universal design requires dedicated elevators.",
+			"shortLabel": "Ramps optional vs required elevators",
+			"rationale": "Minimum building codes require an accessible route, so ramps are not optional extras; universal design does not single out elevators."
+		},
+		{
+			"id": "option-4",
+			"text": "Minimum codes set a legal baseline, while universal design aims for optimal usability for everyone.",
+			"shortLabel": "Legal compliance vs optimal inclusion",
+			"rationale": "Minimum codes establish mandatory baselines often framed as individual accommodation, while universal design strives for seamless, barrier-free access."
+		}
+	],
+	"correctOptionId": "option-4",
+	"explanation": "Minimum building codes set the enforceable baseline necessary to satisfy legal compliance, which often results in isolated accommodations (like a separate side entrance ramp). Universal design best practice guidelines encourage design that exceeds minimum thresholds to create intuitive, dignified, and integrated spaces for all users.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "Centre for Universal Design Australia: Minimum access standards and myths",
+			"url": "https://universaldesignaustralia.net.au/minimum-building-standards-myths/"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["built-environment", "universal-design"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

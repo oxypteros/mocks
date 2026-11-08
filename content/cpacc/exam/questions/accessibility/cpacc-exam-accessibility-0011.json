@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-accessibility-0011",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "When planning emergency egress and evacuation for a multi-story building, which practice best supports safety for people with disabilities?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Directing occupants to use the standard stairs, with large-print evacuation maps and floor wardens on each landing.",
+			"shortLabel": "Standard stairs, large-print maps, and floor wardens",
+			"rationale": "Standard stairs remain unusable for many people with disabilities, and maps plus floor wardens do not replace refuge areas, evacuation devices, or visual alarms."
+		},
+		{
+			"id": "option-2",
+			"text": "Providing areas of refuge with two-way communication, evacuation chairs, and alarms that use both sound and light.",
+			"shortLabel": "Refuge areas, evacuation chairs, and multisensory alarms",
+			"rationale": "Safe egress requires multisensory alarms (audible and visible), two-way communication in areas of refuge, and a way to assist people who cannot use stairs."
+		},
+		{
+			"id": "option-3",
+			"text": "Installing audible and visual alarms, posting tactile maps, and telling occupants who cannot use stairs to take the elevator down.",
+			"shortLabel": "Alarms, tactile maps, and elevator evacuation",
+			"rationale": "Visual alarms and tactile maps help with notification, but standard elevators are not a safe evacuation route in a fire."
+		},
+		{
+			"id": "option-4",
+			"text": "Posting tactile evacuation maps at each area of refuge, in the main lobby, and on the staff intranet portal.",
+			"shortLabel": "Tactile maps at refuge, lobby, and intranet",
+			"rationale": "Maps alone do not provide notification or assisted evacuation, and an intranet portal is not available to occupants during an emergency."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "An accessible evacuation plan addresses notification, egress, and assisted rescue. Emergency warning systems should provide both audible and visible alerts, and areas of refuge should have accessible two-way communication so occupants can call for help. Emergency stair travel devices, such as evacuation chairs, can assist people who cannot use stairs.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "Emergency Evacuation Planning Guide for People with Disabilities",
+			"author": "NFPA",
+			"year": "2024",
+			"url": "https://www.nfpa.org/-/media/project/storefront/catalog/files/home-fire-safety/disabilities/evacuationguidepdf.pdf"
+		}
+	],
+	"images": [],
+	"difficulty": 4,
+	"tags": ["built-environment", "safety"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

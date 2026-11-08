@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-disabilities-0010",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "A blind employee must read sensitive information during a quiet public meeting without disturbing attendees. Which assistive technology setup best meets this requirement?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "A screen magnifier that enlarges text and increases contrast.",
+			"shortLabel": "Screen magnifier with contrast",
+			"rationale": "Screen magnification requires sufficient residual vision to read enlarged text."
+		},
+		{
+			"id": "option-2",
+			"text": "A screen reader connected to a refreshable braille display.",
+			"shortLabel": "Screen reader with refreshable braille",
+			"rationale": "A refreshable braille display enables silent, tactile reading of digital information translated by a screen reader."
+		},
+		{
+			"id": "option-3",
+			"text": "A desktop text-to-speech engine reading the document through the computer's speakers.",
+			"shortLabel": "Auditory text-to-speech playback",
+			"rationale": "Audio output through system speakers would disrupt the meeting and compromise confidentiality."
+		},
+		{
+			"id": "option-4",
+			"text": "An optical character recognition scanner that converts the printed page into a digital text file.",
+			"shortLabel": "OCR text conversion",
+			"rationale": "An OCR scanner turns a page image into text, but without a screen reader or braille display it does not present the content to the user."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "A refreshable braille display converts digital text sent from a screen reader into raised braille cells dynamically. This provides individuals who are blind or deaf-blind with a tactile reading option that can be operated silently in meetings or public spaces.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["visual-disabilities", "assistive-technology"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

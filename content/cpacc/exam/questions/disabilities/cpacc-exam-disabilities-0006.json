@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-disabilities-0006",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "Members of Deaf communities often describe themselves as part of a distinct linguistic and cultural minority rather than as individuals with a hearing deficit. Which model best reflects this viewpoint?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "The medical model.",
+			"shortLabel": "Medical model",
+			"rationale": "The medical model frames deafness as an auditory deficiency to be corrected through implants or hearing aids."
+		},
+		{
+			"id": "option-2",
+			"text": "The functional solutions model.",
+			"shortLabel": "Functional solutions model",
+			"rationale": "The functional solutions model treats deafness as an obstacle requiring technical workarounds like captioning software."
+		},
+		{
+			"id": "option-3",
+			"text": "The social identity model.",
+			"shortLabel": "Social identity model",
+			"rationale": "This model recognizes disability as an identity, a source of cultural pride, and a shared social experience."
+		},
+		{
+			"id": "option-4",
+			"text": "The economic model.",
+			"shortLabel": "Economic model",
+			"rationale": "The economic model evaluates deafness based on employment capabilities and income security."
+		}
+	],
+	"correctOptionId": "option-3",
+	"explanation": "The social identity or cultural affiliation model derives personal identity and collective belonging from membership in a shared group. It is evident within Deaf culture, where sign language and common values create an affirmative social community.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["theoretical-models", "social-identity-model"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

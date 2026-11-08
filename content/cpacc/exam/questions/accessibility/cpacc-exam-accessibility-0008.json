@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-accessibility-0008",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "Which design implementation directly aligns with the Understandable principle of the Web Content Accessibility Guidelines (WCAG) 2.1?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Users can silence background audio that plays automatically.",
+			"shortLabel": "Silencing auto-playing audio",
+			"rationale": "Audio control falls under Guideline 1.4 within the Perceivable principle."
+		},
+		{
+			"id": "option-2",
+			"text": "Forms identify errors and suggest how the user can fix them.",
+			"shortLabel": "Error identification and correction",
+			"rationale": "Error assistance and predictable form inputs belong to Guideline 3.3 within the Understandable principle."
+		},
+		{
+			"id": "option-3",
+			"text": "Touch targets measure at least 44 by 44 CSS pixels.",
+			"shortLabel": "Touch target size",
+			"rationale": "Target size falls under Guideline 2.5 within the Operable principle."
+		},
+		{
+			"id": "option-4",
+			"text": "Video includes audio descriptions of visual action.",
+			"shortLabel": "Audio descriptions",
+			"rationale": "Audio descriptions belong to Guideline 1.2 within the Perceivable principle."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "The Understandable principle requires that information and the operation of the user interface are understandable. Key requirements include making text readable, making navigation operate predictably, and providing input assistance that identifies and explains input errors clearly.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "Web Content Accessibility Guidelines (WCAG) 2.1: Principle 3 - Understandable",
+			"url": "https://www.w3.org/TR/WCAG21/#understandable"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["wcag", "understandable"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

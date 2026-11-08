@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-accessibility-0017",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "An airport check-in station offers counters at several heights, enough room for a wheelchair to turn, and controls positioned within easy reach. Which Universal Design principle is demonstrated?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Principle 3: Simple and Intuitive Use.",
+			"shortLabel": "Simple and Intuitive Use",
+			"rationale": "Simple and Intuitive Use pertains to cognitive simplicity rather than physical spatial dimensions."
+		},
+		{
+			"id": "option-2",
+			"text": "Principle 5: Tolerance for Error.",
+			"shortLabel": "Tolerance for Error",
+			"rationale": "Tolerance for Error addresses safety precautions and accidental activations."
+		},
+		{
+			"id": "option-3",
+			"text": "Principle 7: Size and Space for Approach and Use.",
+			"shortLabel": "Size and Space for Approach and Use",
+			"rationale": "Principle 7 ensures appropriate size and space are provided for approach, reach, manipulation, and use regardless of body size, posture, or mobility."
+		},
+		{
+			"id": "option-4",
+			"text": "Principle 4: Perceptible Information.",
+			"shortLabel": "Perceptible Information",
+			"rationale": "Perceptible Information concerns multi-modal sensory presentation, not geometric physical dimensions."
+		}
+	],
+	"correctOptionId": "option-3",
+	"explanation": "Principle 7 (Size and Space for Approach and Use) mandates that adequate spatial dimensions are provided for approach, reach, manipulation, and use, regardless of user body size, posture, or mobility devices. Clear lines of sight, knee clearance, and accessible reach zones are hallmarks of this principle.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "University of Washington DO-IT: Equal Access: Universal Design",
+			"url": "https://doit.uw.edu/brief/universal-design-process-principles-and-applications/"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["universal-design", "size-and-space"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-11-08"
+}

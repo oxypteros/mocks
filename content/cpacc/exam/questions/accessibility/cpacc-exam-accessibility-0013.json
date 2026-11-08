@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-accessibility-0013",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "A library computer terminal offers ambidextrous mouse hardware, adjustable keyboard repeat rates, and customizable scroll speeds. Which Universal Design principle does this reflect?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Principle 2: Flexibility in Use.",
+			"shortLabel": "Flexibility in Use",
+			"rationale": "Flexibility in Use accommodates a wide range of individual preferences and abilities, including left- and right-handed use and user pacing."
+		},
+		{
+			"id": "option-2",
+			"text": "Principle 4: Perceptible Information.",
+			"shortLabel": "Perceptible Information",
+			"rationale": "Perceptible Information deals with sensory presentation of essential data, not input mechanics or user pacing."
+		},
+		{
+			"id": "option-3",
+			"text": "Principle 6: Low Physical Effort.",
+			"shortLabel": "Low Physical Effort",
+			"rationale": "While related to ergonomics, providing choice between left/right hands and adjustable speeds is the definition of Flexibility in Use."
+		},
+		{
+			"id": "option-4",
+			"text": "Principle 5: Tolerance for Error.",
+			"shortLabel": "Tolerance for Error",
+			"rationale": "Tolerance for Error concerns minimizing hazards and accidental adverse actions, not input customization."
+		}
+	],
+	"correctOptionId": "option-1",
+	"explanation": "Principle 2 (Flexibility in Use) requires the design to accommodate a wide range of individual preferences and abilities. It emphasizes providing choices in methods of use, accommodating right- or left-handed access, and adapting to the user's pace.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "Centre for Excellence in Universal Design: The 7 principles of Universal Design",
+			"url": "https://universaldesign.ie/about-universal-design/the-7-principles"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["universal-design", "flexibility-in-use"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-11-08"
+}

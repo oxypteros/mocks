@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-disabilities-0004",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "A government agency determines public assistance eligibility by calculating the extent to which an individual's impairment limits their ability to earn wages. Which model of disability does this reflect?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "The social identity model.",
+			"shortLabel": "Social identity model",
+			"rationale": "The social identity model is rooted in personal belonging and shared cultural bonds, not financial compensation."
+		},
+		{
+			"id": "option-2",
+			"text": "The functional solutions model.",
+			"shortLabel": "Functional solutions model",
+			"rationale": "The functional solutions model focuses on developing practical tools to accomplish everyday tasks."
+		},
+		{
+			"id": "option-3",
+			"text": "The medical model.",
+			"shortLabel": "Medical model",
+			"rationale": "The medical model locates disability in the individual's body and seeks clinical treatment, rather than measuring the economic effect of impairment on employment."
+		},
+		{
+			"id": "option-4",
+			"text": "The economic model.",
+			"shortLabel": "Economic model",
+			"rationale": "The economic model defines disability primarily through the lens of earning capacity, productivity, and welfare requirements."
+		}
+	],
+	"correctOptionId": "option-4",
+	"explanation": "The economic model views disability in terms of a person's ability to participate in gainful employment. Policymakers use it when setting eligibility thresholds for disability benefits, because it links impairment to lost productivity and the resulting cost to the individual, employer, and state.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["theoretical-models", "economic-model"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

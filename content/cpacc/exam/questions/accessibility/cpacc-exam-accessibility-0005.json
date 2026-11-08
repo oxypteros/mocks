@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-accessibility-0005",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "Beyond human rights, what macroeconomic consequence is linked to excluding people with disabilities from the workforce?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "A substantial loss in national Gross Domestic Product (GDP) from lost output and underused labor.",
+			"shortLabel": "Substantial national GDP loss",
+			"rationale": "The ILO's 'The Price of Exclusion' estimated losses of 3% to 7% of GDP across the ten countries it studied, driven by lower productivity and higher unemployment and inactivity."
+		},
+		{
+			"id": "option-2",
+			"text": "Higher consumer prices as employers pass the cost of workplace accommodations on to customers.",
+			"shortLabel": "Higher prices from accommodation costs",
+			"rationale": "Workplace accommodations are usually low-cost, and the ILO analysis does not identify accommodation costs as a driver of inflation."
+		},
+		{
+			"id": "option-3",
+			"text": "A wider current account deficit caused by rising imports of assistive technology.",
+			"shortLabel": "Trade deficit from assistive imports",
+			"rationale": "The current account reflects trade and capital flows; assistive technology imports are not the mechanism the ILO identifies."
+		},
+		{
+			"id": "option-4",
+			"text": "Lower business investment as firms redirect equipment budgets toward accessibility renovations.",
+			"shortLabel": "Investment shifted to renovations",
+			"rationale": "The ILO analysis centers on lost output and underused labor, not on firms shifting capital budgets to renovations."
+		}
+	],
+	"correctOptionId": "option-1",
+	"explanation": "Excluding persons with disabilities from the labor market imposes substantial macroeconomic costs. The International Labour Organization's 'The Price of Exclusion' estimated that, across the ten countries it studied, losses from lower productivity and higher unemployment and inactivity among people with disabilities fell into a band of 3% to 7% of Gross Domestic Product (GDP).",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "The Price of Exclusion: The economic consequences of excluding people with disabilities from the world of work",
+			"author": "Sebastian Buckup",
+			"year": "2009",
+			"url": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_emp/%40ifp_skills/documents/publication/wcms_119305.pdf"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["benefits-of-accessibility", "economics"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

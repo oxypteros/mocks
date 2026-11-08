@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-accessibility-0018",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "What are the three core principles that define the Universal Design for Learning (UDL) instructional framework?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Multiple means of perception, multiple means of physical action, and multiple means of self-regulation.",
+			"shortLabel": "Perception, physical action, self-regulation",
+			"rationale": "Perception, physical action, and self-regulation are specific sub-guidelines within the UDL matrix, rather than the three overarching core principles."
+		},
+		{
+			"id": "option-2",
+			"text": "Multiple means of cognitive processing, multiple means of sensory integration, and multiple means of behavioral reinforcement.",
+			"shortLabel": "Cognitive processing, sensory integration, reinforcement",
+			"rationale": "These concepts stem from cognitive psychology and behavioral learning theories, but they do not represent the three foundational principles of CAST's UDL framework."
+		},
+		{
+			"id": "option-3",
+			"text": "Multiple means of direct instruction, multiple means of guided practice, and multiple means of independent inquiry.",
+			"shortLabel": "Direct instruction, practice, independent inquiry",
+			"rationale": "These represent phases of pedagogical models like the Gradual Release of Responsibility, not the core universal design principles for learning."
+		},
+		{
+			"id": "option-4",
+			"text": "Multiple means of engagement, multiple means of representation, and multiple means of action and expression.",
+			"shortLabel": "Engagement, representation, action and expression",
+			"rationale": "The CAST UDL framework is defined by these three overarching principles, which align with the brain's affective ('why'), recognition ('what'), and strategic ('how') learning networks."
+		}
+	],
+	"correctOptionId": "option-4",
+	"explanation": "The Universal Design for Learning (UDL) framework, developed by CAST, is organized around three primary principles: providing multiple means of engagement (the 'why' of learning), multiple means of representation (the 'what' of learning), and multiple means of action and expression (the 'how' of learning). Sub-guidelines such as perception, physical action, and self-regulation sit underneath these three primary pillars.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "CAST: The Universal Design for Learning Guidelines",
+			"url": "https://udlguidelines.cast.org/"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["udl", "education"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-10-31"
+}

@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-accessibility-0001",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "How does universal design differ from an individualized accommodation?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Universal design builds flexibility for diverse users into the initial design, whereas accommodations modify an environment for one person.",
+			"shortLabel": "Proactive broad design vs reactive individual adjustment",
+			"rationale": "Universal design is an upfront, population-wide methodology aimed at usability for the widest audience possible from the start, whereas accommodations are reactive, case-by-case adjustments for specific individuals."
+		},
+		{
+			"id": "option-2",
+			"text": "Universal design is a legal obligation for private employers, whereas accommodations are optional workplace benefits.",
+			"shortLabel": "Legal obligation vs optional benefits",
+			"rationale": "Reasonable accommodations are legally required in many jurisdictions, whereas universal design is a design philosophy that laws rarely mandate as such."
+		},
+		{
+			"id": "option-3",
+			"text": "Universal design is limited to physical barriers in buildings, whereas accommodations cover digital products and services.",
+			"shortLabel": "Buildings only vs digital services",
+			"rationale": "Universal design applies to digital products and services as well as buildings, and accommodations are not limited to digital settings."
+		},
+		{
+			"id": "option-4",
+			"text": "Universal design targets physical and sensory disabilities, whereas accommodations target cognitive and neurodivergent needs.",
+			"shortLabel": "Physical and sensory vs cognitive needs",
+			"rationale": "Both universal design and accommodations address physical, sensory, cognitive, and neurological differences; neither is intended for one disability category."
+		}
+	],
+	"correctOptionId": "option-1",
+	"explanation": "Universal design is a proactive philosophy that considers diverse human abilities during the initial planning and design phases so products and environments work for the broadest audience possible without modification. In contrast, reasonable accommodation is a reactive, individualized measure implemented to remove a specific barrier for an individual with a disability in an existing environment.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "CultureAlly: Accommodations vs Universal Design",
+			"url": "https://www.cultureally.com/blog/accommodations-vs-universal-design"
+		}
+	],
+	"images": [],
+	"difficulty": 1,
+	"tags": ["universal-design", "accommodations"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

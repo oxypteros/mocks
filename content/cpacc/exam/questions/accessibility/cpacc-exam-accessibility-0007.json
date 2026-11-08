@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-accessibility-0007",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "Which practice directly fulfills the Operable principle of the Web Content Accessibility Guidelines (WCAG) 2.1?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Text and background maintain sufficient color contrast.",
+			"shortLabel": "Text color contrast",
+			"rationale": "Contrast ratios fall under Guideline 1.4 within the Perceivable principle."
+		},
+		{
+			"id": "option-2",
+			"text": "Prerecorded video includes synchronized captions.",
+			"shortLabel": "Synchronized captions",
+			"rationale": "Captions and multimedia alternatives fall under Guideline 1.2 within the Perceivable principle."
+		},
+		{
+			"id": "option-3",
+			"text": "The page's default human language is declared in the markup.",
+			"shortLabel": "Default page language",
+			"rationale": "Language specification falls under Guideline 3.1 within the Understandable principle."
+		},
+		{
+			"id": "option-4",
+			"text": "Interactive controls work from a keyboard.",
+			"shortLabel": "Keyboard operation",
+			"rationale": "Keyboard accessibility is a foundational requirement of Guideline 2.1 within the Operable principle."
+		}
+	],
+	"correctOptionId": "option-4",
+	"explanation": "The Operable principle states that user interface components and navigation must be operable by all users. This includes ensuring full functionality via keyboard interfaces, providing sufficient time to complete actions, avoiding seizure-inducing flashes, and offering clear navigation pathways.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "Web Content Accessibility Guidelines (WCAG) 2.1: Principle 2 - Operable",
+			"url": "https://www.w3.org/TR/WCAG21/#operable"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["wcag", "operable"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

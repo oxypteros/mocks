@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-accessibility-0006",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "What is the core requirement of the Perceivable principle in the Web Content Accessibility Guidelines (WCAG) 2.1?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Users can navigate a page by voice instead of using a keyboard or pointer.",
+			"shortLabel": "Navigate by voice commands",
+			"rationale": "Voice navigation is an alternative input mechanism within the Operable principle, not a Perceivable requirement."
+		},
+		{
+			"id": "option-2",
+			"text": "Sentences are shortened automatically to an elementary reading level.",
+			"shortLabel": "Simplifies sentence lengths",
+			"rationale": "Readability and text simplicity support the Understandable principle; Perceivable concerns sensory detection."
+		},
+		{
+			"id": "option-3",
+			"text": "Information is available through the user's senses.",
+			"shortLabel": "Information detectable through senses",
+			"rationale": "Perceivable requires that digital content is presented in ways that users can perceive through vision, hearing, or touch."
+		},
+		{
+			"id": "option-4",
+			"text": "Forms block submission when a user enters an invalid or incomplete value.",
+			"shortLabel": "Blocks invalid form submissions",
+			"rationale": "Error prevention and correction belong to the Understandable principle, not to Perceivable presentation."
+		}
+	],
+	"correctOptionId": "option-3",
+	"explanation": "The Perceivable principle of WCAG 2.1 requires that information and user interface components are presented to users in ways they can perceive through their available senses. This includes providing text alternatives for images, captions for video, and clear visual contrast.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "Web Accessibility Initiative (WAI): Understanding the Four Principles of Accessibility",
+			"url": "https://www.w3.org/WAI/WCAG21/Understanding/intro"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["wcag", "perceivable"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

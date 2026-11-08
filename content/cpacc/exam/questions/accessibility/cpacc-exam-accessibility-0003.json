@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-accessibility-0003",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "What is the primary distinction between universal design and a reasonable accommodation?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Universal design is integrated proactively for a broad range of users, whereas accommodations are reactive changes for specific individuals.",
+			"shortLabel": "Proactive broad design vs reactive individual change",
+			"rationale": "Universal design aims to make environments, products, and services usable by the widest possible population from the outset, whereas accommodations are personalized adjustments provided on a case-by-case basis."
+		},
+		{
+			"id": "option-2",
+			"text": "Universal design replaces assistive technologies, whereas accommodations rely on specialized software tools.",
+			"shortLabel": "Replaces assistive tools vs software tools",
+			"rationale": "Universal design reduces the need for specialized adjustments, but it does not replace assistive technologies, and accommodations are broader than software tools."
+		},
+		{
+			"id": "option-3",
+			"text": "Universal design applies to the built environment, whereas accommodations apply to information and communication technology.",
+			"shortLabel": "Built environment vs ICT",
+			"rationale": "Both universal design and accommodations apply across the physical built environment, digital technologies, and organizational services."
+		},
+		{
+			"id": "option-4",
+			"text": "Universal design is mandated by civil rights legislation, whereas accommodations are optional organizational best practices.",
+			"shortLabel": "Mandated by law vs optional best practice",
+			"rationale": "Reasonable accommodations are legally mandated obligations under many civil rights laws, while universal design is often encouraged as a proactive standard and best practice."
+		}
+	],
+	"correctOptionId": "option-1",
+	"explanation": "Universal design aims to create products, services, and environments that can be used by the widest possible audience from the start without requiring adaptation. In contrast, reasonable accommodations are individualized, case-by-case modifications provided when the primary design fails to meet an individual's specific access needs.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["universal-design", "reasonable-accommodations"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-11-01",
+	"sourceCheckedAt": "2026-11-08"
+}

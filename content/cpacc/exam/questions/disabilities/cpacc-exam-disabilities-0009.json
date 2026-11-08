@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-disabilities-0009",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "From a functional standpoint in accessibility and rehabilitation, how is low vision defined?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "A normal age-related decline in near focusing that reading glasses correct.",
+			"shortLabel": "Age-related presbyopia",
+			"rationale": "Presbyopia is a normal age-related change in focusing that reading glasses or contact lenses correct, so it does not meet the low-vision criterion of being uncorrectable."
+		},
+		{
+			"id": "option-2",
+			"text": "A complete inability to perceive light, shadows, or movement in either eye.",
+			"shortLabel": "Complete lack of light perception",
+			"rationale": "Total absence of light perception describes complete blindness rather than low vision."
+		},
+		{
+			"id": "option-3",
+			"text": "A refractive error fully corrected by standard eyeglasses or contacts.",
+			"shortLabel": "Correctable refractive error",
+			"rationale": "Vision issues that can be fully resolved using standard corrective lenses are not classified as low vision."
+		},
+		{
+			"id": "option-4",
+			"text": "A permanent vision loss that cannot be corrected by lenses, medicine, or surgery.",
+			"shortLabel": "Uncorrectable functional vision reduction",
+			"rationale": "Low vision is functionally defined as permanent, uncorrectable vision impairment that impairs everyday performance."
+		}
+	],
+	"correctOptionId": "option-4",
+	"explanation": "Low vision is defined functionally rather than purely by clinical test numbers. It describes a permanent reduction in visual acuity or field of view that cannot be restored through regular glasses, contacts, medication, or surgery, and which interferes with daily activities.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "American Foundation for the Blind: Low Vision and Legal Blindness Terms and Descriptions",
+			"url": "https://www.afb.org/blindness-and-low-vision/eye-conditions/low-vision-and-legal-blindness-terms-and-descriptions"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["visual-disabilities", "low-vision"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

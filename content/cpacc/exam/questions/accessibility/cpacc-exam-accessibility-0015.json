@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-accessibility-0015",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "An automated banking terminal asks users to confirm large cash transfers, displays warning dialogs before irreversible actions, and provides an immediate cancel option. Which Universal Design principle does this feature represent?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Principle 1: Equitable Use.",
+			"shortLabel": "Equitable Use",
+			"rationale": "Equitable Use focuses on providing equivalent means of use for all users, not error handling."
+		},
+		{
+			"id": "option-2",
+			"text": "Principle 5: Tolerance for Error.",
+			"shortLabel": "Tolerance for Error",
+			"rationale": "Tolerance for Error arranges elements to minimize hazards and provides fail-safe features, warnings, and error-recovery mechanisms."
+		},
+		{
+			"id": "option-3",
+			"text": "Principle 2: Flexibility in Use.",
+			"shortLabel": "Flexibility in Use",
+			"rationale": "Flexibility in Use addresses user preference choices and handedness."
+		},
+		{
+			"id": "option-4",
+			"text": "Principle 4: Perceptible Information.",
+			"shortLabel": "Perceptible Information",
+			"rationale": "Perceptible Information addresses sensory contrast and redundant presentation modalities."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "Principle 5 (Tolerance for Error) aims to minimize hazards and the adverse consequences of accidental or unintended actions. It involves isolating hazardous elements, providing clear warnings of errors, and incorporating fail-safe undo features.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "Centre for Excellence in Universal Design: The 7 Principles",
+			"url": "https://universaldesign.ie/what-is-universal-design/the-7-principles/"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["universal-design", "tolerance-for-error"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-11-08"
+}

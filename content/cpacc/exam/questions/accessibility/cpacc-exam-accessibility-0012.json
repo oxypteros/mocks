@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-accessibility-0012",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "Which design solution exemplifies Principle 1 (Equitable Use) of the 7 Principles of Universal Design?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "A public check-in kiosk that offers users the choice between a touch display, an audio-tactile keypad, and speech recognition.",
+			"shortLabel": "Multimodal touch, keypad, and speech kiosk",
+			"rationale": "Accommodating individual operational preferences and techniques through multiple alternative input modes exemplifies Principle 2 (Flexibility in Use), rather than Principle 1."
+		},
+		{
+			"id": "option-2",
+			"text": "Interior door hardware equipped with smooth lever handles that can be unlatched using a closed fist or minimal grip strength.",
+			"shortLabel": "Lever handles operated with low grip force",
+			"rationale": "Replacing twist knobs with lever handles reduces the physical exertion, torque, and fatigue required for operation, exemplifying Principle 6 (Low Physical Effort)."
+		},
+		{
+			"id": "option-3",
+			"text": "A grocery store with one wide automatic door at the main entrance, so shoppers no longer need a separate side entrance.",
+			"shortLabel": "One shared main entrance, no separate side entrance",
+			"rationale": "The equitable feature is the shared main entrance: a separate side entrance would still send some users elsewhere, while Equitable Use calls for the same means of use whenever possible."
+		},
+		{
+			"id": "option-4",
+			"text": "An interactive software application that provides explicit warning dialogues and a one-click undo feature prior to deleting data.",
+			"shortLabel": "Warning dialogues and undo functionality",
+			"rationale": "Shielding users from accidental slips and mistakes through warnings and reversible actions exemplifies Principle 5 (Tolerance for Error)."
+		}
+	],
+	"correctOptionId": "option-3",
+	"explanation": "Principle 1 of Universal Design (Equitable Use) requires that a design is useful and marketable to people with diverse abilities. It emphasizes providing the same means of use for all users—identical whenever possible, equivalent when not—while avoiding segregating or stigmatizing anyone. An automated sliding main entrance serves all visitors through the same entryway, whereas multiple input modes represent Flexibility in Use (Principle 2), undo buttons represent Tolerance for Error (Principle 5), and lever door handles represent Low Physical Effort (Principle 6).",
+	"references": [
+		{
+			"kind": "web",
+			"title": "Center for Universal Design: The 7 Principles of Universal Design",
+			"url": "https://design.ncsu.edu/research/center-for-universal-design/"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["universal-design", "equitable-use"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

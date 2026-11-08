@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-accessibility-0014",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "An electronic appliance uses universally recognized icons, logical control groupings, and clear confirmation chimes that make operation clear regardless of user literacy. Which Universal Design principle is applied?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Principle 7: Size and Space for Approach and Use.",
+			"shortLabel": "Size and Space for Approach and Use",
+			"rationale": "Principle 7 addresses reach ranges, physical clearance, and user posture rather than interface comprehension."
+		},
+		{
+			"id": "option-2",
+			"text": "Principle 2: Flexibility in Use.",
+			"shortLabel": "Flexibility in Use",
+			"rationale": "Flexibility in Use concerns options for right/left hand use and varied pacing, not cognitive simplicity."
+		},
+		{
+			"id": "option-3",
+			"text": "Principle 6: Low Physical Effort.",
+			"shortLabel": "Low Physical Effort",
+			"rationale": "Low Physical Effort focuses on minimizing fatigue and operating forces rather than cognitive clarity."
+		},
+		{
+			"id": "option-4",
+			"text": "Principle 3: Simple and Intuitive Use.",
+			"shortLabel": "Simple and Intuitive Use",
+			"rationale": "Simple and Intuitive Use requires that design is easy to understand regardless of the user's experience, knowledge, language, or literacy level."
+		}
+	],
+	"correctOptionId": "option-4",
+	"explanation": "Principle 3 (Simple and Intuitive Use) states that the design should be easy to understand regardless of user experience, knowledge, language skills, or current concentration level. It emphasizes eliminating unnecessary complexity and matching user expectations.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "Centre for Excellence in Universal Design: The 7 Principles",
+			"url": "https://universaldesign.ie/what-is-universal-design/the-7-principles/"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["universal-design", "simple-and-intuitive"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-11-08"
+}

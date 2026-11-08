@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-disabilities-0001",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "Which theoretical model asserts that disability is primarily created by architectural, organizational, and attitudinal barriers rather than an individual's personal impairment?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "The medical model.",
+			"shortLabel": "Medical model",
+			"rationale": "The medical model conceptualizes disability as an individual biological defect or health pathology that requires clinical intervention, treatment, or cure."
+		},
+		{
+			"id": "option-2",
+			"text": "The social model.",
+			"shortLabel": "Social model",
+			"rationale": "The social model distinguishes between an individual's impairment and disability, asserting that disability is created by systemic, environmental, and societal failure to accommodate diverse human needs."
+		},
+		{
+			"id": "option-3",
+			"text": "The functional solutions model.",
+			"shortLabel": "Functional solutions model",
+			"rationale": "The functional solutions model focuses pragmatically on developing innovative technological and design solutions to bridge limitations, without focusing primarily on social or ideological barriers."
+		},
+		{
+			"id": "option-4",
+			"text": "The biopsychosocial model.",
+			"shortLabel": "Biopsychosocial model",
+			"rationale": "The biopsychosocial model (reflected in the WHO ICF) integrates biological, individual, and environmental factors as an interactive whole, rather than attributing disability exclusively to external barriers."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "The social model of disability distinguishes between an impairment (an individual physical, sensory, cognitive, or psychological variation) and disability (the exclusion and disadvantage imposed by an inaccessible society). Under this framework, disability is not an inherent trait of the individual, but rather the result of architectural, digital, systemic, and attitudinal barriers.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 1,
+	"tags": ["theoretical-models", "social-model"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

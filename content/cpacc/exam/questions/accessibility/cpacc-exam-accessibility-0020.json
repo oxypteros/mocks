@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-accessibility-0020",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "In human-centered design frameworks, what is the primary distinction between usability and user experience (UX)?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Usability is the broader discipline that contains UX, which is limited to a product's visual design.",
+			"shortLabel": "Usability as the broader discipline",
+			"rationale": "The relationship is reversed: UX is the broader discipline, and usability is one part of it focused on ease of use."
+		},
+		{
+			"id": "option-2",
+			"text": "Usability covers a product's technical reliability and speed, while UX covers the ease of completing tasks with it.",
+			"shortLabel": "Technical performance vs task ease",
+			"rationale": "Ease of completing tasks is the core of usability, while technical reliability and speed are engineering qualities rather than the scope of UX."
+		},
+		{
+			"id": "option-3",
+			"text": "Usability covers task efficiency, learnability, and error reduction; UX covers the whole emotional journey of a product.",
+			"shortLabel": "Task efficiency vs complete holistic journey",
+			"rationale": "Usability is a key sub-discipline within user experience that ensures a tool works smoothly, while UX covers the entire emotional and practical lifecycle of interaction."
+		},
+		{
+			"id": "option-4",
+			"text": "Usability and UX are interchangeable terms for how easily people can use a product.",
+			"shortLabel": "Interchangeable terms",
+			"rationale": "The terms were once used interchangeably, but usability is now understood as a sub-discipline contributing to UX, not a synonym for it."
+		}
+	],
+	"correctOptionId": "option-3",
+	"explanation": "Usability is a sub-discipline of user experience focused on whether a user can learn, navigate, and complete tasks easily, quickly, and without error. User experience (UX) is a broader, holistic discipline that encompasses usability, accessibility, content utility, emotional response, brand trust, and overall satisfaction.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "Usability: A Part of the User Experience",
+			"url": "https://www.interaction-design.org/literature/article/usability-a-part-of-the-user-experience"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["ux", "usability"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-11-08"
+}

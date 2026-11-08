@@ -1,0 +1,50 @@
+{
+	"id": "cpacc-exam-accessibility-0019",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "In the Universal Design for Learning (UDL) framework, how does an instructor provide multiple means of representation?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "By offering students choices about learning goals, rewards, and the level of challenge they take on.",
+			"shortLabel": "Choices about goals and challenge",
+			"rationale": "Offering choices about goals, rewards, and challenge supports engagement and motivation, not how content is represented."
+		},
+		{
+			"id": "option-2",
+			"text": "By presenting material through varied modalities such as audio, diagrams, text alternatives, and models.",
+			"shortLabel": "Presenting material through diverse modalities",
+			"rationale": "Multiple means of representation involves offering alternatives for auditory and visual information, clarifying vocabulary, and building background knowledge."
+		},
+		{
+			"id": "option-3",
+			"text": "By letting students demonstrate what they know through presentations, writing, or discussion.",
+			"shortLabel": "Presentations, writing, or discussion",
+			"rationale": "Offering different ways to show what has been learned concerns action and expression, not representation."
+		},
+		{
+			"id": "option-4",
+			"text": "By teaching students to set goals, monitor their progress, and reflect on their own learning.",
+			"shortLabel": "Goal setting and self-monitoring",
+			"rationale": "Goal setting, progress monitoring, and reflection build self-regulation and executive function, not representation."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "Multiple means of representation focuses on how information is communicated to learners. Because students perceive and comprehend information differently (for example, due to sensory disabilities, learning disabilities, or language differences), instructors should offer content through varied modalities such as text, audio, illustrations, video, and concrete examples.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "Universal Design for Learning: Theory and Practice",
+			"author": "Anne Meyer, David H. Rose, and David Gordon",
+			"year": "2014"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["udl", "representation"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-11-08"
+}

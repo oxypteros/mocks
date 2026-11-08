@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-accessibility-0002",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "How does the financial expense of integrating universal design into the initial planning phase compare to retrofitting accessibility after construction is complete?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Upfront planning costs less for new buildings, but retrofitting costs less when renovating an existing structure.",
+			"shortLabel": "Retrofits cheaper for renovations",
+			"rationale": "The cost advantage of planning ahead applies to renovations as well; post-construction work remains disruptive and more expensive."
+		},
+		{
+			"id": "option-2",
+			"text": "Initial universal design planning lowers recurring maintenance and utility costs enough to repay its upfront expense.",
+			"shortLabel": "Maintenance savings repay upfront cost",
+			"rationale": "Universal design reduces the need for expensive modifications, but ordinary maintenance and utility costs remain and are not offset by design alone."
+		},
+		{
+			"id": "option-3",
+			"text": "Planning accessibility upfront costs significantly less than retrofitting an inaccessible environment later.",
+			"shortLabel": "Upfront planning costs far less than retrofits",
+			"rationale": "Incorporating accessibility from the start typically adds minimal cost, whereas post-construction retrofits are disruptive and expensive."
+		},
+		{
+			"id": "option-4",
+			"text": "The cost gap between initial planning and retrofitting narrows to negligible levels over a building's life.",
+			"shortLabel": "Cost gap becomes negligible",
+			"rationale": "Retrofits remain substantially more expensive than proactive design; the gap does not disappear over the building's life."
+		}
+	],
+	"correctOptionId": "option-3",
+	"explanation": "Designing for accessibility from the beginning of an architectural or digital project requires minimal additional resources. In contrast, retrofitting physical structures or finished codebases after launch is significantly more costly, complex, and disruptive.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "Education for All: The Cost of Accessibility",
+			"author": "Edward Steinfeld, Arch. D.",
+			"year": "2005",
+			"url": "https://documents1.worldbank.org/curated/en/185031468178138911/pdf/388640EdNotes1August2005CostOfAccess12.pdf"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["universal-design", "business-case"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

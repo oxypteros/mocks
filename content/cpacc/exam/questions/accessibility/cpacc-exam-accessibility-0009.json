@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-accessibility-0009",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "What is the primary objective of the Robust principle in the Web Content Accessibility Guidelines (WCAG) 2.1?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "To work with current and future browsers and assistive technologies.",
+			"shortLabel": "Compatibility with browsers and assistive tools",
+			"rationale": "Robustness ensures that content uses standard markup so browsers and assistive technologies can interpret it reliably."
+		},
+		{
+			"id": "option-2",
+			"text": "To keep pages loading quickly on slow network connections.",
+			"shortLabel": "Fast loading on slow networks",
+			"rationale": "Page load speed is a performance concern, not the WCAG Robust principle."
+		},
+		{
+			"id": "option-3",
+			"text": "To ensure pages link to downloadable accessibility software and browser extensions.",
+			"shortLabel": "Links to accessibility software",
+			"rationale": "WCAG does not require pages to link to downloadable assistive software."
+		},
+		{
+			"id": "option-4",
+			"text": "To ensure interactive controls show a visible focus indicator.",
+			"shortLabel": "Visible focus indicators",
+			"rationale": "Visible focus is part of the Operable principle, not Robust."
+		}
+	],
+	"correctOptionId": "option-1",
+	"explanation": "The Robust principle mandates that web content must be robust enough to be reliably interpreted by a wide variety of user agents, including current and emerging assistive technologies. This is achieved by using standard markup, complete tags, and accessible name-role-value states.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "Web Content Accessibility Guidelines (WCAG) 2.1: Principle 4 - Robust",
+			"url": "https://www.w3.org/TR/WCAG21/#robust"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["wcag", "robust"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

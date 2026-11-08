@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-accessibility-0004",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "Sidewalk curb ramps were installed for wheelchair users, yet parents with strollers, travelers with luggage, and delivery workers also rely on them. What does this pattern illustrate about accessible design?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Accessible features are usually adopted because they reduce long-term infrastructure costs.",
+			"shortLabel": "Adopted for infrastructure savings",
+			"rationale": "The curb-cut effect is about broader usability, not about lowering maintenance or infrastructure budgets."
+		},
+		{
+			"id": "option-2",
+			"text": "Design choices made for one group can produce broad, unintended gains for the wider public.",
+			"shortLabel": "Broad benefits beyond target group",
+			"rationale": "Sidewalk curb cuts built for wheelchair users directly benefit parents pushing strollers, travelers rolling luggage, and delivery workers."
+		},
+		{
+			"id": "option-3",
+			"text": "Accessibility features work best when separated from routes used by the general public.",
+			"shortLabel": "Kept separate from general routes",
+			"rationale": "Universal design principles reject segregation and promote shared mainstream routes, not separate ones."
+		},
+		{
+			"id": "option-4",
+			"text": "Accessible features mainly help their target group, with little benefit to others.",
+			"shortLabel": "Little benefit beyond target group",
+			"rationale": "The pattern shows the opposite: features built for disabled users are routinely used by the wider public."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "The 'curb-cut effect' describes how accommodations and accessible features designed specifically for individuals with disabilities (such as sidewalk ramps, closed captions, and voice controls) often end up improving the daily lives and convenience of the entire population.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "ArchDaily: The Curb Cut Effect",
+			"url": "https://www.archdaily.com/1005564/the-curb-cut-effect-how-accessible-architecture-is-benefiting-everybody"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["benefits-of-accessibility", "curb-cut-effect"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

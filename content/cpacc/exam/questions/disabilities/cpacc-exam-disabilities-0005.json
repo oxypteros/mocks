@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-disabilities-0005",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "An engineering team creates assistive software extensions and hardware adaptations so that people can complete everyday tasks they would otherwise be unable to do. Which disability model guides their approach?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "The charity model.",
+			"shortLabel": "Charity model",
+			"rationale": "The charity model depends on sympathy and humanitarian assistance rather than technological problem-solving."
+		},
+		{
+			"id": "option-2",
+			"text": "The functional solutions model.",
+			"shortLabel": "Functional solutions model",
+			"rationale": "The functional solutions model seeks to overcome real-world limitations through targeted engineering, design, and innovation."
+		},
+		{
+			"id": "option-3",
+			"text": "The economic model.",
+			"shortLabel": "Economic model",
+			"rationale": "The economic model emphasizes labor output and public expenditures rather than creating tools to perform tasks."
+		},
+		{
+			"id": "option-4",
+			"text": "The biopsychosocial model.",
+			"shortLabel": "Biopsychosocial model",
+			"rationale": "The biopsychosocial model integrates biological, psychological, and social factors rather than centering on engineering solutions."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "The functional solutions model approaches disability as a series of specific practical limitations that can be addressed through technological, methodological, and design innovation. It is the practical lens through which many accessibility specialists work.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC, Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["theoretical-models", "functional-solutions-model"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

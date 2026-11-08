@@ -1,0 +1,54 @@
+{
+	"id": "cpacc-exam-accessibility-0016",
+	"module": "accessibility",
+	"type": "single",
+	"stem": "A transit facility installs automatic motion-activated doors and light-touch elevator call buttons. Which Universal Design principle is directly implemented?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Principle 6: Low Physical Effort.",
+			"shortLabel": "Low Physical Effort",
+			"rationale": "Low Physical Effort requires that the design can be used efficiently and comfortably with a minimum of fatigue and operating force."
+		},
+		{
+			"id": "option-2",
+			"text": "Principle 3: Simple and Intuitive Use.",
+			"shortLabel": "Simple and Intuitive Use",
+			"rationale": "Simple and Intuitive Use focuses on mental comprehension and eliminating cognitive complexity."
+		},
+		{
+			"id": "option-3",
+			"text": "Principle 1: Equitable Use.",
+			"shortLabel": "Equitable Use",
+			"rationale": "Equitable Use addresses whether all users have the same or an equivalent way to use the design, not the operating effort the design demands."
+		},
+		{
+			"id": "option-4",
+			"text": "Principle 5: Tolerance for Error.",
+			"shortLabel": "Tolerance for Error",
+			"rationale": "Tolerance for Error focuses on minimizing unintended mistakes and dangerous conditions."
+		}
+	],
+	"correctOptionId": "option-1",
+	"explanation": "Principle 6 of Universal Design (Low Physical Effort) ensures that designs can be operated comfortably with minimal fatigue. Using low operating forces, reducing the force needed to open doors, and minimizing repetitive manual strain are practical applications of this principle.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "Centre for Excellence in Universal Design: The 7 Principles",
+			"url": "https://universaldesign.ie/what-is-universal-design/the-7-principles/"
+		},
+		{
+			"kind": "web",
+			"title": "University of Washington DO-IT: Equal Access: Universal Design of Physical Spaces",
+			"url": "https://doit.uw.edu/brief/equal-access-universal-design-of-physical-spaces/"
+		}
+	],
+	"images": [],
+	"difficulty": 1,
+	"tags": ["universal-design", "low-physical-effort"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-11-08"
+}

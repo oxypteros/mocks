@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-disabilities-0007",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "An advertisement portrays people with disabilities as pitiable, helpless individuals who depend on the generosity of benevolent patrons. Which model of disability does this advertisement reflect?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "The social model.",
+			"shortLabel": "Social model",
+			"rationale": "The social model rejects paternalism and demands systemic removal of environmental barriers."
+		},
+		{
+			"id": "option-2",
+			"text": "The functional solutions model.",
+			"shortLabel": "Functional solutions model",
+			"rationale": "The functional solutions model seeks practical tools rather than pity or charitable handouts."
+		},
+		{
+			"id": "option-3",
+			"text": "The biopsychosocial model.",
+			"shortLabel": "Biopsychosocial model",
+			"rationale": "The biopsychosocial model is an objective multi-dimensional health framework, not an emotional appeal."
+		},
+		{
+			"id": "option-4",
+			"text": "The charity model.",
+			"shortLabel": "Charity model",
+			"rationale": "The charity model frames people with disabilities as victims in need of pity and humanitarian donation."
+		}
+	],
+	"correctOptionId": "option-4",
+	"explanation": "The charity model views disabled individuals as unfortunate victims dependent on outside benevolence. While it can inspire people to contribute time or resources, it is widely criticized for perpetuating stigma, pity, and disempowerment.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 1,
+	"tags": ["theoretical-models", "charity-model"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

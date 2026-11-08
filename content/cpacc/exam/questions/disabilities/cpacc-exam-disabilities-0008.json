@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-disabilities-0008",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "Which type of color vision deficiency occurs most frequently in the human population?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Red-green color vision deficiency.",
+			"shortLabel": "Red-green deficiency",
+			"rationale": "Red-green color vision deficiency is the most prevalent form, affecting roughly 8% of males and 0.5% of females."
+		},
+		{
+			"id": "option-2",
+			"text": "Blue-yellow color vision deficiency.",
+			"shortLabel": "Blue-yellow deficiency",
+			"rationale": "Blue-yellow color vision deficiency is far rarer, affecting fewer than 1 in 10,000 individuals worldwide."
+		},
+		{
+			"id": "option-3",
+			"text": "Complete monochromacy (achromatopsia).",
+			"shortLabel": "Complete monochromacy",
+			"rationale": "Total absence of color perception (achromatopsia or monochromacy) is an extremely rare condition."
+		},
+		{
+			"id": "option-4",
+			"text": "Blue-cone monochromacy.",
+			"shortLabel": "Blue-cone monochromacy",
+			"rationale": "Blue-cone monochromacy is a rare inherited condition, not the most common form of color vision deficiency."
+		}
+	],
+	"correctOptionId": "option-1",
+	"explanation": "Red-green color vision deficiency (including deuteranomaly, deuteranopia, protanomaly, and protanopia) is by far the most widespread color vision defect. Because it affects roughly 1 in 12 males, digital content must never rely solely on red-green cues to convey vital information.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "MedlinePlus: Color Vision Deficiency",
+			"url": "https://medlineplus.gov/genetics/condition/color-vision-deficiency/"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["visual-disabilities", "color-vision-deficiency"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

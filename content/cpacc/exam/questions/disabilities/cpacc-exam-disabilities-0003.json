@@ -1,0 +1,56 @@
+{
+	"id": "cpacc-exam-disabilities-0003",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "The World Health Organization (WHO) established the International Classification of Functioning, Disability and Health (ICF). Which theoretical approach forms the core of this framework?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "The biopsychosocial model.",
+			"shortLabel": "Biopsychosocial model",
+			"rationale": "The WHO ICF operationalizes the biopsychosocial model, creating a unified framework that synthesizes biological impairment, individual activity, and environmental participation."
+		},
+		{
+			"id": "option-2",
+			"text": "The medical model.",
+			"shortLabel": "Medical model",
+			"rationale": "The ICF is not a purely medical classification: it also records activity limitations, participation restrictions, and environmental factors, whereas the medical model locates disability in the individual's body."
+		},
+		{
+			"id": "option-3",
+			"text": "The social model.",
+			"shortLabel": "Social model",
+			"rationale": "While the ICF incorporates environmental and attitudinal barriers, it does not adopt a pure social model because it also formally accounts for biological health conditions and bodily functions."
+		},
+		{
+			"id": "option-4",
+			"text": "The human rights model.",
+			"shortLabel": "Human rights model",
+			"rationale": "The human rights model underpins legal treaties like the UN CRPD, focusing on civil rights and state obligations, whereas the WHO ICF is a health classification framework based on the biopsychosocial model."
+		}
+	],
+	"correctOptionId": "option-1",
+	"explanation": "The World Health Organization (WHO) created the International Classification of Functioning, Disability and Health (ICF) to bridge the gap between the medical and social models. Rather than treating disability as purely biological (medical model) or exclusively environmental (social model), the ICF uses the biopsychosocial model to define disability as a dynamic, multidirectional interaction between health conditions, personal factors, and environmental contexts.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "WHO: International Classification of Functioning, Disability and Health (ICF)",
+			"url": "https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-health"
+		},
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["theoretical-models", "biopsychosocial-model"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}

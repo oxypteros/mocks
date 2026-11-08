@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-disabilities-0002",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "A public program classifies disability as a defect inside the person's body and makes correcting that defect the individual's responsibility. It does not treat inaccessible workplaces or public spaces as part of the problem. Which theoretical model does this represent?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "The functional solutions model.",
+			"shortLabel": "Functional solutions model",
+			"rationale": "The functional solutions model concentrates on practical technological and methodological tools rather than clinical medical intervention."
+		},
+		{
+			"id": "option-2",
+			"text": "The social identity model.",
+			"shortLabel": "Social identity model",
+			"rationale": "The social identity model views disability as a positive source of community and shared culture."
+		},
+		{
+			"id": "option-3",
+			"text": "The medical model.",
+			"shortLabel": "Medical model",
+			"rationale": "The medical model frames disability as an individual biological problem requiring medical care, adjustment, or cure."
+		},
+		{
+			"id": "option-4",
+			"text": "The biopsychosocial model.",
+			"shortLabel": "Biopsychosocial model",
+			"rationale": "The biopsychosocial model integrates biological traits with psychological experiences and environmental contexts rather than focusing solely on pathology."
+		}
+	],
+	"correctOptionId": "option-3",
+	"explanation": "The medical model treats disability as an inherent biological deficit residing inside the individual. Its main priority is medical diagnosis, rehabilitation, and clinical curing, often disregarding societal or environmental barriers.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["theoretical-models", "medical-model"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-08"
+}
