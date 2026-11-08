@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-standards-0016",
+	"module": "standards",
+	"type": "single",
+	"stem": "What four areas of activity make up the W3C Web Accessibility Initiative (WAI) guidance for integrating accessibility across an organization?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Assess, Remediate, Validate, and Certify.",
+			"shortLabel": "Assess, Remediate, Validate, Certify",
+			"rationale": "This sequence describes a technical accessibility audit and remediation pipeline, rather than the comprehensive organizational management framework defined by W3C WAI."
+		},
+		{
+			"id": "option-2",
+			"text": "Initiate, Plan, Implement, and Sustain.",
+			"shortLabel": "Initiate, Plan, Implement, Sustain",
+			"rationale": "The W3C WAI 'Planning and Managing Web Accessibility' framework structures organizational accessibility adoption into these four areas of activity."
+		},
+		{
+			"id": "option-3",
+			"text": "Plan, Do, Check, and Act.",
+			"shortLabel": "Plan, Do, Check, Act",
+			"rationale": "This represents the Deming Cycle (PDCA) commonly used in general ISO quality management, not the strategic organizational roadmap formulated by the W3C."
+		},
+		{
+			"id": "option-4",
+			"text": "Discover, Design, Develop, and Deploy.",
+			"shortLabel": "Discover, Design, Develop, Deploy",
+			"rationale": "This sequence represents a standard software development lifecycle (SDLC) or UX design process, rather than the W3C's enterprise governance framework."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "The World Wide Web Consortium's Web Accessibility Initiative (W3C WAI) provides guidance in 'Planning and Managing Web Accessibility' structured into four areas of activity: (1) Initiate—building understanding, setting objectives, and gathering support; (2) Plan—establishing accessibility policies, budgeting, and assigning roles; (3) Implement—building skills, making tools available, and integrating accessibility into everyday work; and (4) Sustain—monitoring, engaging stakeholders, tracking standards and legislation, and adapting to new technologies. The W3C notes that these activities are not necessarily carried out in sequence and are ideally repeated over time.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "Web Accessibility Initiative: Planning and Managing Web Accessibility",
+			"url": "https://www.w3.org/WAI/planning-and-managing/"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["management-strategies", "w3c-roadmap"],
+	"status": "published",
+	"provenance": "llm_assisted",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-11-05"
+}

@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-standards-0019",
+	"module": "standards",
+	"type": "single",
+	"stem": "Why must an organization's digital accessibility evaluation strategy combine automated testing tools with human manual testing?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Because automated scanners are better suited to readability and plain language, while manual testers validate DOM syntax rules.",
+			"shortLabel": "Scanners test readability; humans test syntax",
+			"rationale": "This inverts reality: automated tools are suited to machine-checkable DOM syntax and rules, whereas human evaluators are needed for subjective qualities like plain language, cognitive flow, and context."
+		},
+		{
+			"id": "option-2",
+			"text": "Because automated scanners detect only a subset of barriers and cannot evaluate contextual meaning, logical flow, or usability.",
+			"shortLabel": "Scanners catch partial issues; humans assess context",
+			"rationale": "Automated testing catches machine-testable issues such as missing attributes and insufficient color contrast, but human evaluation is essential to judge contextual meaning, keyboard navigation, and actual screen reader usability."
+		},
+		{
+			"id": "option-3",
+			"text": "Because regulators accept manual audit reports as proof of conformance while automated scan results are treated as preliminary evidence.",
+			"shortLabel": "Manual reports accepted as sole proof",
+			"rationale": "No accessibility standard or regulation treats manual reports as the sole proof of conformance; conformance evaluation combines automated checks, manual review, and assistive technology testing."
+		},
+		{
+			"id": "option-4",
+			"text": "Because automated evaluation engines cannot execute client-side JavaScript, leaving them unable to audit single-page web applications.",
+			"shortLabel": "Scanners cannot evaluate client-side JavaScript",
+			"rationale": "Modern automated tools (such as Axe-core and Lighthouse) run directly inside browser rendering engines and readily parse client-side JavaScript; their limitation is human judgment, not script execution."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "A complete digital accessibility evaluation strategy requires both automated and manual testing. Automated testing tools provide speed and scale, catching syntax errors, missing attributes, and other machine-testable issues across thousands of pages. However, they can check only a limited subset of WCAG requirements and cannot determine whether alternative text is meaningful in context, whether keyboard focus follows a logical sequence, or whether complex dynamic widgets are truly usable with assistive technology like screen readers. Human manual testing bridges this critical gap.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "W3C Web Accessibility Initiative: Evaluating Web Accessibility Overview",
+			"url": "https://www.w3.org/WAI/test-evaluate/"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["evaluation", "quality-assurance"],
+	"status": "published",
+	"provenance": "llm_assisted",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-11-05"
+}

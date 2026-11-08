@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-standards-0012",
+	"module": "standards",
+	"type": "single",
+	"stem": "What core legal obligation does Section 508 of the United States Rehabilitation Act of 1973 place on federal government agencies?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "To establish affirmative action programs for hiring, placing, and advancing individuals with disabilities within federal employment.",
+			"shortLabel": "Affirmative action in federal employment",
+			"rationale": "This obligation is established under Section 501 of the Rehabilitation Act, which governs non-discrimination and affirmative action within the federal workforce."
+		},
+		{
+			"id": "option-2",
+			"text": "To develop, procure, maintain, and use electronic and information technology that provides comparable access to people with disabilities.",
+			"shortLabel": "Comparable access to electronic technology",
+			"rationale": "Section 508 specifically requires federal agencies to ensure that their Information and Communication Technology (ICT) provides federal employees and members of the public with disabilities access to and use of information comparable to that of individuals without disabilities."
+		},
+		{
+			"id": "option-3",
+			"text": "To prohibit discrimination against qualified individuals with disabilities across all programs or activities receiving federal financial assistance.",
+			"shortLabel": "Non-discrimination in federally funded programs",
+			"rationale": "This foundational civil rights protection is established under Section 504 of the Rehabilitation Act, which applies broadly to any entity, program, or activity receiving federal financial grants."
+		},
+		{
+			"id": "option-4",
+			"text": "To require private commercial entities holding federal procurement contracts to implement affirmative action in workforce hiring.",
+			"shortLabel": "Affirmative action for federal contractors",
+			"rationale": "This mandate is governed by Section 503 of the Rehabilitation Act, which requires non-discrimination and affirmative action by private commercial contractors holding federal contracts."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "Section 508 of the Rehabilitation Act of 1973 (as amended in 1998 and refreshed in 2017) specifically governs Information and Communication Technology (ICT). It requires federal departments and agencies to ensure that electronic and information technology developed, procured, maintained, or used by the federal government allows federal employees and members of the public with disabilities to have comparable access to and use of information. In contrast, Section 501 covers federal employment affirmative action, Section 503 covers federal contractors, and Section 504 covers federally funded programs.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "US General Services Administration (GSA): Section 508 Overview",
+			"url": "https://www.section508.gov/manage/laws-and-policies/"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["procurement-laws", "section-508"],
+	"status": "published",
+	"provenance": "llm_assisted",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-10-31"
+}

@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-standards-0014",
+	"module": "standards",
+	"type": "single",
+	"stem": "How does European standard EN 301 549 relate to the Web Content Accessibility Guidelines (WCAG)?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "EN 301 549 adopts WCAG 2.0 Level AA for web content but has not been updated to reference WCAG 2.1.",
+			"shortLabel": "Stuck on WCAG 2.0",
+			"rationale": "EN 301 549 V3.2.1 (2021) references WCAG 2.1 Level AA; the standard has been updated beyond WCAG 2.0."
+		},
+		{
+			"id": "option-2",
+			"text": "EN 301 549 applies WCAG Level AA to web content and Level A to non-web documents and software.",
+			"shortLabel": "Level A for non-web content",
+			"rationale": "EN 301 549 applies WCAG-equivalent requirements to non-web documents and software, not a lower Level A baseline."
+		},
+		{
+			"id": "option-3",
+			"text": "EN 301 549 incorporates WCAG criteria and extends equivalent requirements to non-web software, documents, and hardware.",
+			"shortLabel": "Incorporates WCAG and extends across ICT",
+			"rationale": "EN 301 549 adopts WCAG Level AA for web content (Chapter 9) and adapts those same principles to non-web documents (Chapter 10), native software (Chapter 11), and physical hardware (Chapters 5–8)."
+		},
+		{
+			"id": "option-4",
+			"text": "EN 301 549 incorporates WCAG success criteria but maps them onto a separate EU-wide conformance scale with five levels.",
+			"shortLabel": "Separate five-level EU scale",
+			"rationale": "EN 301 549 uses WCAG's A/AA/AAA conformance framework; it does not create a separate five-tier European scale."
+		}
+	],
+	"correctOptionId": "option-3",
+	"explanation": "EN 301 549 is the European harmonized standard for accessible Information and Communication Technology (ICT). Rather than competing with WCAG, it incorporates WCAG 2.1 Level AA in Chapter 9 (Web), while adapting those same principles to Chapter 10 (Non-web documents like PDFs) and Chapter 11 (Software and mobile apps). Additionally, it addresses ICT domains that fall outside WCAG's scope, including physical hardware, biometrics, two-way voice communication, and closed-functionality systems like ATMs and information kiosks.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "EN 301 549 V3.2.1: Accessibility requirements for ICT products and services",
+			"author": "European Telecommunications Standards Institute (ETSI)",
+			"year": "2021",
+			"url": "https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf"
+		}
+	],
+	"images": [],
+	"difficulty": 4,
+	"tags": ["standards", "en-301-549"],
+	"status": "published",
+	"provenance": "llm_assisted",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-10-31"
+}

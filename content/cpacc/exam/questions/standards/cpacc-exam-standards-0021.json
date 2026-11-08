@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-standards-0021",
+	"module": "standards",
+	"type": "single",
+	"stem": "What is the primary objective of the Marrakesh Treaty administered by the World Intellectual Property Organization (WIPO)?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "To establish international patent-licensing exceptions that reduce manufacturing costs for proprietary assistive hardware devices.",
+			"shortLabel": "Patent exceptions for assistive hardware",
+			"rationale": "The Marrakesh Treaty focuses strictly on copyright exceptions for published literary works, not patent law or assistive hardware manufacturing."
+		},
+		{
+			"id": "option-2",
+			"text": "To let authorized entities produce and share accessible copies of works across borders without rights-holder permission.",
+			"shortLabel": "Authorized entities share accessible copies",
+			"rationale": "The Marrakesh Treaty specifically addresses the global 'book famine' by establishing mandatory copyright exceptions and legalizing cross-border sharing of accessible formats for people with print disabilities."
+		},
+		{
+			"id": "option-3",
+			"text": "To create copyright exceptions under which commercial publishers release accessible editions alongside standard print releases.",
+			"shortLabel": "Copyright exceptions for publisher releases",
+			"rationale": "The Marrakesh Treaty enables authorized entities to convert and share works under copyright exceptions; it does not impose release obligations on commercial publishers."
+		},
+		{
+			"id": "option-4",
+			"text": "To establish a centralized open-access international digital repository operated directly by the United Nations for public-domain works.",
+			"shortLabel": "Centralized UN open-access repository",
+			"rationale": "The treaty establishes a decentralized legal framework allowing domestic authorized entities (such as libraries for the blind) to share files across borders, rather than creating a centralized UN digital repository."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "Adopted in 2013 by member states of the World Intellectual Property Organization (WIPO), the Marrakesh Treaty specifically addresses the global 'book famine' affecting individuals who are blind, visually impaired, or otherwise print-disabled. Its primary objective is to require contracting parties to adopt copyright limitations and exceptions that permit authorized entities to produce accessible formats (such as braille, audiobooks, and accessible digital text) and to share those materials across international borders without rights-holder authorization.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "WIPO: Summary of the Marrakesh Treaty",
+			"url": "https://www.wipo.int/treaties/en/ip/marrakesh/summary_marrakesh.html"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["international-conventions", "marrakesh-treaty"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-11-01",
+	"sourceCheckedAt": "2026-11-05"
+}

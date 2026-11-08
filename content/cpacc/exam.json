@@ -6,7 +6,7 @@
 	"providerUrl": "https://www.accessibilityassociation.org/cpacc",
 	"unofficial": true,
 	"contentLocale": "en",
-	"blueprintVersion": "TBD",
+	"blueprintVersion": "v0.0.1",
 	"durationMinutes": 120,
 	"questionCount": 100,
 	"optionCount": 4,

@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-standards-0009",
+	"module": "standards",
+	"type": "single",
+	"stem": "What is the primary purpose of the United States Twenty-First Century Communications and Video Accessibility Act (CVAA)?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "To ensure that modern mobile, broadband, and internet-streamed video technologies are accessible to individuals with disabilities.",
+			"shortLabel": "Accessible broadband, mobile, and IP video",
+			"rationale": "Enacted in 2010, the CVAA updated federal communications law to require accessible advanced communications services (such as VoIP, electronic messaging, and video conferencing), accessible web browsers on mobile devices, and accessible IP-delivered video."
+		},
+		{
+			"id": "option-2",
+			"text": "To mandate that federal agencies procure and maintain accessible electronic information technologies and public documentation.",
+			"shortLabel": "Federal agency ICT procurement",
+			"rationale": "The procurement, development, and maintenance of accessible information and communication technology by federal agencies is governed by Section 508 of the Rehabilitation Act, not the CVAA."
+		},
+		{
+			"id": "option-3",
+			"text": "To establish compulsory technical accessibility standards for private commercial e-commerce websites and online retail storefronts.",
+			"shortLabel": "Commercial e-commerce web accessibility",
+			"rationale": "Accessibility for private commercial websites and online public accommodations falls under Title III of the Americans with Disabilities Act (ADA), rather than FCC telecommunications rules under the CVAA."
+		},
+		{
+			"id": "option-4",
+			"text": "To govern traditional analog broadcast television captioning and wireline telephone equipment across state telecommunications utilities.",
+			"shortLabel": "Legacy wireline and broadcast captioning",
+			"rationale": "Legacy wireline telephone access was addressed by Section 255 of the Telecommunications Act of 1996, and broadcast captioning rules predate the CVAA; the CVAA was created to extend accessibility to digital, mobile, and IP-delivered technologies."
+		}
+	],
+	"correctOptionId": "option-1",
+	"explanation": "Enacted in 2010, the Twenty-First Century Communications and Video Accessibility Act (CVAA) modernized US communications law under the Federal Communications Commission (FCC). It closed the regulatory gap between legacy telecommunications and modern digital media by requiring that Advanced Communications Services (ACS)—such as interconnected VoIP, video conferencing, and electronic messaging—be accessible, that web browsers on mobile devices be accessible, and that video programming delivered via the internet (IP-streamed video that previously aired on TV) be accessible to individuals with disabilities.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "US Federal Communications Commission: 21st Century Communications and Video Accessibility Act (CVAA)",
+			"url": "https://www.fcc.gov/consumers/guides/21st-century-communications-and-video-accessibility-act-cvaa"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["domain-specific-laws", "cvaa"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-31",
+	"sourceCheckedAt": "2026-11-05"
+}
