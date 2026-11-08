@@ -11,6 +11,7 @@
 		"dev": "vite dev",
 		"build": "wrangler types && node scripts/strip-global-props.mjs && vite build",
 		"preview": "wrangler dev .svelte-kit/cloudflare/_worker.js --port 4173",
+		"wrangler:init": "node scripts/wrangler-init.mjs",
 		"prepare": "svelte-kit sync || echo ''",
 		"check": "wrangler types && node scripts/strip-global-props.mjs && svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --fail-on-warnings",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
