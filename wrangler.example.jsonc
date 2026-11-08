@@ -1,5 +1,12 @@
 {
+	// Copy this file to `wrangler.jsonc` before running the app locally:
+	//   cp wrangler.example.jsonc wrangler.jsonc
+	// The real config is intentionally not committed so every clone keeps its own
+	// Cloudflare account and D1 database.
+
 	"$schema": "./node_modules/wrangler/config-schema.json",
+	// Rename the worker if you deploy your own copy, so it does not collide with
+	// another deployment in the same Cloudflare account.
 	"name": "mocks",
 	"compatibility_date": "2026-11-04",
 	"compatibility_flags": ["nodejs_als"],
@@ -11,10 +18,15 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "REPLACE_WITH_YOUR_DATABASE_NAME",
-			"database_id": "REPLACE_WITH_YOUR_DATABASE_ID"
+			// Keep this name: the package.json database scripts target `mocks-db`.
+			"database_name": "mocks-db",
+			// Replace with the id printed by `wrangler d1 create mocks-db`.
+			// Local development and the PR gate work with this placeholder id.
+			"database_id": "00000000-0000-0000-0000-000000000000",
+			"migrations_dir": "drizzle"
 		}
 	],
+	"previews": {},
 	"workers_dev": true,
 	"preview_urls": true
 }

@@ -32,11 +32,17 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v7
         with:
-          node-version: 24
+          node-version: 26
           cache: pnpm
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
+
+      # `wrangler.jsonc` carries a D1 database id and is not committed.
+      # Materialize it from the committed template so `wrangler types` sees the
+      # expected bindings.
+      - name: Create local Wrangler config
+        run: pnpm wrangler:init
 
       # `check` keeps the required `wrangler types` --> strip-global-props order
       # and runs svelte-check with --fail-on-warnings.
@@ -66,11 +72,16 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v7
         with:
-          node-version: 24
+          node-version: 26
           cache: pnpm
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
+
+      # The committed template has a placeholder D1 id, which is all local
+      # migrations and `wrangler dev` need. The real config stays uncommitted.
+      - name: Create local Wrangler config
+        run: pnpm wrangler:init
 
       # The portal reads from D1. The Playwright web server runs the built worker
       # with local bindings, so the local D1 database must be migrated and seeded.
