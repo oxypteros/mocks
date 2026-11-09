@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-disabilities-0030",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "An engineering team changes how a task is performed so that people with limited hand strength can complete it without special equipment. Which theoretical model of disability does this approach best represent?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Charity model, which treats disability as a misfortune that calls for benevolent help",
+			"shortLabel": "Charity model",
+			"rationale": "The charity model views people with disabilities as unfortunate individuals needing pity and benevolent aid, rather than practical methods that reduce a functional limitation."
+		},
+		{
+			"id": "option-2",
+			"text": "Social identity model, which treats disability as a shared identity and community",
+			"shortLabel": "Social identity model",
+			"rationale": "The social identity model centers on a sense of community, belonging, and shared culture among individuals with common experiences."
+		},
+		{
+			"id": "option-3",
+			"text": "Functional solutions model, which treats disability as a limitation to be reduced through practical methods",
+			"shortLabel": "Functional solutions model",
+			"rationale": "The functional solutions model focuses on practical and results-oriented innovations that reduce functional limitations through technology or method design."
+		},
+		{
+			"id": "option-4",
+			"text": "Biopsychosocial model, which treats disability as an interaction of biological, psychological, and social factors",
+			"shortLabel": "Biopsychosocial model",
+			"rationale": "The biopsychosocial model integrates biological, psychological, and social factors into healthcare and rehabilitation assessments rather than focusing on practical task redesign."
+		}
+	],
+	"correctOptionId": "option-3",
+	"explanation": "The functional solutions model of disability takes a practical, results-oriented approach by creating technological or methodological solutions to reduce everyday barriers. While the medical model focuses on biological treatment and the social model examines environmental and systemic barriers, the functional solutions model concentrates on practical methods and tools that support individual tasks.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["theoretical-models", "functional-solutions-model"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-11-01",
+	"sourceCheckedAt": "2026-11-09"
+}

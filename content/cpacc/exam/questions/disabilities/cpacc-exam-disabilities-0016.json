@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-disabilities-0016",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "An individual with quadriplegia lacks motor function below the neck. Which assistive technology allows them to navigate digital interfaces independently?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "A standard multi-touch trackpad built into the laptop's palm rest.",
+			"shortLabel": "Multi-touch trackpad",
+			"rationale": "Standard trackpads require physical finger and hand dexterity."
+		},
+		{
+			"id": "option-2",
+			"text": "An external high-contrast keyboard with large keycaps and wide spacing.",
+			"shortLabel": "Large-key keyboard",
+			"rationale": "Keyboards require physical upper limb movement to press keys."
+		},
+		{
+			"id": "option-3",
+			"text": "A sip-and-puff switch system combined with on-screen scanning software.",
+			"shortLabel": "Sip-and-puff switch system",
+			"rationale": "Sip-and-puff devices translate air pressure changes created by breathing through a mouth tube into digital commands."
+		},
+		{
+			"id": "option-4",
+			"text": "A wearable wrist-mounted trackball controlled by deliberate arm movements.",
+			"shortLabel": "Wrist-mounted trackball",
+			"rationale": "Wrist trackballs require intentional arm or wrist motor movements."
+		}
+	],
+	"correctOptionId": "option-3",
+	"explanation": "Assistive technologies—including sip-and-puff switches, head wands, and eye-tracking cameras—allow individuals with limited or no functional limb movement to interact with digital operating systems and application software.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "WebAIM: Motor Disabilities Assistive Technologies",
+			"url": "https://webaim.org/articles/motor/assistive"
+		}
+	],
+	"images": [],
+	"difficulty": 4,
+	"tags": ["mobility-disabilities", "assistive-technology"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-09"
+}

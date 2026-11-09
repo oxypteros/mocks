@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-disabilities-0022",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "Why are textured ground tiles with raised domes installed along train platform edges and street crosswalks?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "To warn cyclists and scooter riders, through a raised surface, that they are approaching a vehicle lane.",
+			"shortLabel": "Cyclist lane warning",
+			"rationale": "Tactile warning surfaces alert pedestrians who are blind; they are not a cyclist or scooter lane marking."
+		},
+		{
+			"id": "option-2",
+			"text": "To guide passengers toward ticket machines and information desks through a distinct floor texture.",
+			"shortLabel": "Guides to station facilities",
+			"rationale": "The raised domes mark a hazard boundary; they do not provide directional guidance to station facilities."
+		},
+		{
+			"id": "option-3",
+			"text": "To mark the area where pedestrians should wait before crossing through a change in floor texture.",
+			"shortLabel": "Marks a waiting area",
+			"rationale": "The domes mark the boundary of the roadway or platform edge, not a designated waiting area."
+		},
+		{
+			"id": "option-4",
+			"text": "To alert people who are blind, with a cane or underfoot, to a drop-off or roadway boundary.",
+			"shortLabel": "Provide tactile hazard warning",
+			"rationale": "Detectable warning surfaces alert cane users and individuals with vision loss that they are approaching an edge or street crossing."
+		}
+	],
+	"correctOptionId": "option-4",
+	"explanation": "Tactile ground surface indicators (such as raised domes or bars) provide underfoot and cane-detectable tactile warnings. They notify travelers with visual disabilities of impending drop-offs, transit edges, and vehicular roadway transitions.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["visual-disabilities", "built-environment"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-09"
+}

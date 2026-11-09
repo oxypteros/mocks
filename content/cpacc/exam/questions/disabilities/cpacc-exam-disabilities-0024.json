@@ -1,0 +1,56 @@
+{
+	"id": "cpacc-exam-disabilities-0024",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "An auditorium installs an audio induction loop to make its sound system more accessible. How does the loop assist patrons who use hearing aids?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "It converts the speaker's voice into a radio signal that compatible FM receivers can pick up.",
+			"shortLabel": "FM radio transmission",
+			"rationale": "A radio signal received by FM receivers describes an FM assistive listening system, not an induction loop."
+		},
+		{
+			"id": "option-2",
+			"text": "It captures the speaker's voice and rebroadcasts it through ceiling speakers at a higher volume.",
+			"shortLabel": "Ceiling speaker amplification",
+			"rationale": "Rebroadcasting through ceiling speakers describes a sound field or public-address system, not a loop that sends a magnetic signal to hearing devices."
+		},
+		{
+			"id": "option-3",
+			"text": "It transmits an electromagnetic audio signal directly to hearing devices equipped with a telecoil.",
+			"shortLabel": "Electromagnetic transmission to telecoils",
+			"rationale": "A hearing loop generates a magnetic signal received directly by the telecoil (T-coil) in hearing aids and cochlear implants."
+		},
+		{
+			"id": "option-4",
+			"text": "It uses infrared light to carry the audio to lightweight receivers worn around the neck by listeners.",
+			"shortLabel": "Infrared light transmission",
+			"rationale": "Infrared light describes an infrared assistive listening system, not an induction loop, which uses a magnetic field."
+		}
+	],
+	"correctOptionId": "option-3",
+	"explanation": "Audio induction loop systems use a wire perimeter to broadcast an electromagnetic signal directly to the telecoil (T-coil) switch inside compatible hearing aids and cochlear implants. This delivers the audio signal directly, reducing the effects of room echo and background noise.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		},
+		{
+			"kind": "web",
+			"title": "Hearing Loss Association of America: Hearing Loop Technology",
+			"url": "https://www.hearingloss.org/technology-and-accessibility/hearing-loop-technology/"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["auditory-disabilities", "assistive-technology"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-09"
+}

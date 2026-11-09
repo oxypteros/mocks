@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-disabilities-0027",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "What is the purpose of Augmentative and Alternative Communication (AAC) systems?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "To read digital text aloud for people who cannot read printed text.",
+			"shortLabel": "Read digital text aloud",
+			"rationale": "Reading text aloud is the function of screen readers and text-to-speech software, which help a person receive written content rather than produce their own communication."
+		},
+		{
+			"id": "option-2",
+			"text": "To support or replace speech for people with speech or language impairments.",
+			"shortLabel": "Support or replace speech",
+			"rationale": "AAC covers methods and devices, from symbol boards to speech-generating devices, that let a person with limited speech express themselves."
+		},
+		{
+			"id": "option-3",
+			"text": "To convert a speaker's words into text on a screen for people who cannot hear them.",
+			"shortLabel": "Convert speech to text",
+			"rationale": "Speech-to-text services transcribe what a speaker says; they do not give a person with limited speech another way to express themselves."
+		},
+		{
+			"id": "option-4",
+			"text": "To let learners with speech sound errors practice sounds through structured exercises.",
+			"shortLabel": "Practice speech sounds",
+			"rationale": "Speech practice apps target articulation and pronunciation, whereas AAC provides a functional way to communicate in daily life."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "Augmentative and Alternative Communication (AAC) includes methods, devices, and software—from picture and symbol boards to speech-generating devices—that let a person with speech or language impairments express themselves. It supports or replaces speech; it does not read text aloud, transcribe a speaker's words, or train articulation.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["speech-disabilities", "assistive-technology"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-09"
+}

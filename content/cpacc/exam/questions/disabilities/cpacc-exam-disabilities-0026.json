@@ -1,0 +1,56 @@
+{
+	"id": "cpacc-exam-disabilities-0026",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "An individual knows what words they want to say, but their brain has difficulty planning and sequencing the muscle movements needed to speak. Which condition does this describe?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Dysarthria.",
+			"shortLabel": "Dysarthria",
+			"rationale": "Dysarthria is difficulty controlling the muscles used to speak, caused by weakness, slowness, or incoordination rather than a problem planning the movement sequence."
+		},
+		{
+			"id": "option-2",
+			"text": "Cleft palate.",
+			"shortLabel": "Cleft palate",
+			"rationale": "Cleft palate is a structural deficiency that changes how speech sounds, not a neurological problem planning the movements of speech."
+		},
+		{
+			"id": "option-3",
+			"text": "Apraxia of speech.",
+			"shortLabel": "Apraxia of speech",
+			"rationale": "Apraxia of speech is a motor planning disorder where the brain cannot reliably coordinate the sequence of movements needed for speech."
+		},
+		{
+			"id": "option-4",
+			"text": "Selective mutism.",
+			"shortLabel": "Selective mutism",
+			"rationale": "Selective mutism is an anxiety-driven inability to speak in particular situations even though the person's speech mechanism is intact."
+		}
+	],
+	"correctOptionId": "option-3",
+	"explanation": "Apraxia of speech is a neurological motor disorder in which the person knows what they want to say, but the brain struggles to plan and sequence the movements needed to produce speech. Language comprehension and muscle strength are typically intact, which separates it from conditions where the speech muscles are weak, the speech mechanism is structurally altered, or anxiety prevents speech.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "National Institute on Deafness and Other Communication Disorders (NIH): Apraxia of Speech",
+			"url": "https://www.nidcd.nih.gov/health/apraxia-speech"
+		},
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["speech-disabilities", "motor-speech-disorders"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-09"
+}

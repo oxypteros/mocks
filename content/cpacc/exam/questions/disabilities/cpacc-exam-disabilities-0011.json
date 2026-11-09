@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-disabilities-0011",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "An individual demonstrates normal hearing sensitivity on physical audio tests but struggles to interpret, organize, and comprehend speech in noisy environments. Which condition does this indicate?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Profound sensorineural hearing loss caused by inner-ear damage.",
+			"shortLabel": "Sensorineural hearing loss",
+			"rationale": "Sensorineural hearing loss involves measurable damage to the inner ear or auditory nerve, which shows up clearly on audiograms."
+		},
+		{
+			"id": "option-2",
+			"text": "Conductive hearing loss caused by middle-ear blockages.",
+			"shortLabel": "Conductive hearing loss",
+			"rationale": "Conductive hearing loss is caused by physical blockages or damage in the outer or middle ear and reduces measurable sound volume."
+		},
+		{
+			"id": "option-3",
+			"text": "Central Auditory Processing Disorder (CAPD).",
+			"shortLabel": "Central Auditory Processing Disorder",
+			"rationale": "CAPD is an impairment in how the brain analyzes and decodes auditory signals, occurring despite normal physical ear sensitivity."
+		},
+		{
+			"id": "option-4",
+			"text": "Progressive presbycusis related to age-related hearing decline.",
+			"shortLabel": "Presbycusis",
+			"rationale": "Presbycusis is age-related hearing deterioration characterized by measurable loss in detecting high-frequency sounds."
+		}
+	],
+	"correctOptionId": "option-3",
+	"explanation": "Central Auditory Processing Disorder (CAPD or APD) is a neurological condition where the ear senses sounds normally, but the brain has difficulty filtering, ordering, or understanding the incoming acoustic signals, particularly in busy or noisy environments.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "American Speech-Language-Hearing Association (ASHA): Central Auditory Processing Disorder",
+			"url": "https://www.asha.org/practice-portal/clinical-topics/central-auditory-processing-disorder/"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["auditory-disabilities", "auditory-processing-disorder"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-09"
+}

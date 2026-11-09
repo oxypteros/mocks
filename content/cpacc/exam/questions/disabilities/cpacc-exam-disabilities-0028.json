@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-disabilities-0028",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "Why do physical accessibility standards favor lever-style door handles over traditional round knobs?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "They can be gripped from above, so users with limited hand strength can pull the door open.",
+			"shortLabel": "Gripped from above",
+			"rationale": "Lever handles are operated by pressing down, not by gripping from above and pulling."
+		},
+		{
+			"id": "option-2",
+			"text": "They stay engaged after being pressed, so users do not need to hold the handle while the door opens.",
+			"shortLabel": "Stays engaged after pressing",
+			"rationale": "A lever returns to its resting position after the latch releases; the door is opened by pushing or pulling the door itself."
+		},
+		{
+			"id": "option-3",
+			"text": "They cost less to install and maintain, so accessible hardware fits within limited public budgets.",
+			"shortLabel": "Lower installation and maintenance cost",
+			"rationale": "Accessibility standards set minimum requirements for usability, not for the installation or maintenance cost of hardware."
+		},
+		{
+			"id": "option-4",
+			"text": "They can be operated with a fist or elbow, which keeps the wrist in a neutral position.",
+			"shortLabel": "Keeps the wrist neutral",
+			"rationale": "Levers can be depressed with an arm, elbow, or closed fist, so they do not require the tight grasp and wrist twist a round knob demands."
+		}
+	],
+	"correctOptionId": "option-4",
+	"explanation": "Round door knobs require tight grasping, pinching, and wrist twisting, which presents a significant barrier to people with arthritis, missing limbs, or neurological conditions. Lever handles can be operated without fine motor control using a downward press of a fist or elbow.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 1,
+	"tags": ["mobility-disabilities", "built-environment"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-09"
+}

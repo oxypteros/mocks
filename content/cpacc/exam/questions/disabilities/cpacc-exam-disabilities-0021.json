@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-disabilities-0021",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "What is a recognized weakness of the functional solutions model of disability?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "It primarily treats disability as a medical condition while relying on clinical treatment to address it.",
+			"shortLabel": "Medical-model framing",
+			"rationale": "That describes the medical model, which treats disability as an individual medical problem; the functional solutions model focuses on practical tools and methods."
+		},
+		{
+			"id": "option-2",
+			"text": "It can focus too narrowly on technology while overlooking broader social and political barriers.",
+			"shortLabel": "Overlooks social and political barriers",
+			"rationale": "An overemphasis on engineering solutions can cause practitioners to ignore systemic social, policy, and physical accessibility changes."
+		},
+		{
+			"id": "option-3",
+			"text": "It mainly focuses on changing social attitudes while leaving individual functional limitations unaddressed.",
+			"shortLabel": "Social-model focus",
+			"rationale": "That describes the social model, which emphasizes environmental and attitudinal barriers; the functional solutions model is results-oriented and seeks practical solutions."
+		},
+		{
+			"id": "option-4",
+			"text": "It largely frames disability as a personal misfortune while relying on charitable support to address it.",
+			"shortLabel": "Charity-model framing",
+			"rationale": "That framing belongs to the charity model; the functional solutions model focuses on technological or methodological innovation."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "A key limitation of the functional solutions model is that innovators may focus narrowly on building technological devices. This narrow focus can bypass essential systemic changes, such as removing social discrimination or building barrier-free physical environments.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["theoretical-models", "functional-solutions-model"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-09"
+}

@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-disabilities-0029",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "An employee with multiple sclerosis reports severe muscle fatigue that makes physical tasks difficult. Which description best characterizes this limitation?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "It is a physical limitation that reduces stamina at a fairly consistent rate throughout the day.",
+			"shortLabel": "Fairly consistent stamina loss",
+			"rationale": "Fatigue varies with exertion and recovery rather than staying at a fairly consistent rate."
+		},
+		{
+			"id": "option-2",
+			"text": "It is a fluctuating physical limitation that reduces stamina and muscle strength during activity.",
+			"shortLabel": "Fluctuating stamina and strength",
+			"rationale": "Muscle fatigue reduces the ability to produce force during activity, and the reduction eases with rest."
+		},
+		{
+			"id": "option-3",
+			"text": "It is a physical limitation that reduces stamina as muscle tissue gradually weakens.",
+			"shortLabel": "Gradual muscle weakening",
+			"rationale": "Muscle fatigue is a reversible drop in force production, not the gradual weakening of muscle tissue."
+		},
+		{
+			"id": "option-4",
+			"text": "It is a physical limitation that reduces stamina mainly through reduced blood flow to the muscles.",
+			"shortLabel": "Reduced blood flow to muscles",
+			"rationale": "Reduced blood flow is not considered a key cause of muscle fatigue; the limitation arises from changes in force production during activity."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "Muscle fatigue is a fluctuating symptom characterized by an overwhelming sense of exhaustion and reduced muscle strength during voluntary activity. Accommodations such as ergonomic seating, rest breaks, and flexible scheduling help individuals manage their energy.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "National Institutes of Health: Muscle Fatigue",
+			"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5668469/"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["mobility-disabilities", "episodic-disabilities"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-09"
+}

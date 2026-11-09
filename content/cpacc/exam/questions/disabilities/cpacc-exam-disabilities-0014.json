@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-disabilities-0014",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "What is the primary clinical distinction between aphasia and dysarthria?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Aphasia affects vocal pitch and volume, whereas dysarthria impairs reading comprehension.",
+			"shortLabel": "Vocal pitch vs reading",
+			"rationale": "Aphasia affects language formulation and comprehension, not simply vocal volume or pitch."
+		},
+		{
+			"id": "option-2",
+			"text": "Aphasia impairs language formulation and comprehension; dysarthria is a motor speech disorder.",
+			"shortLabel": "Language impairment vs motor control",
+			"rationale": "Aphasia impairs the cognitive-linguistic capacity to process language, whereas dysarthria stems from muscle weakness or poor muscular coordination during speech articulation."
+		},
+		{
+			"id": "option-3",
+			"text": "Aphasia stems from muscle weakness, whereas dysarthria stems from damage to the language centers of the brain.",
+			"shortLabel": "Muscle weakness vs language centers",
+			"rationale": "The causes are reversed: aphasia follows neurological damage to language areas, while dysarthria involves weakness or incoordination of the speech muscles."
+		},
+		{
+			"id": "option-4",
+			"text": "Aphasia primarily affects memory and attention, whereas dysarthria primarily affects grammar and sentence structure.",
+			"shortLabel": "Memory vs grammar",
+			"rationale": "Aphasia is a language disorder rather than a primary memory or attention disorder, and dysarthria affects speech production rather than grammar or sentence structure."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "Aphasia is a neurological language impairment (frequently following a stroke or brain injury) that affects the ability to produce, comprehend, read, or write language. Dysarthria is an organic speech motor disorder where neuromuscular weakness or incoordination affects the physical muscles used to articulate speech.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "National Aphasia Association: Aphasia Definitions",
+			"url": "https://www.aphasia.org/aphasia-definitions/"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["speech-disabilities", "language-disorders"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-09"
+}

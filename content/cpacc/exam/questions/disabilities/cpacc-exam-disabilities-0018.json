@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-disabilities-0018",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "An adult experiences persistent challenges reading analog clock faces, handling monetary transactions, and processing quantitative symbols. Which cognitive learning disability is most likely indicated?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Dyslexia.",
+			"shortLabel": "Dyslexia",
+			"rationale": "Dyslexia affects reading, word decoding, spelling, and language processing rather than quantitative arithmetic."
+		},
+		{
+			"id": "option-2",
+			"text": "Dyscalculia.",
+			"shortLabel": "Dyscalculia",
+			"rationale": "Dyscalculia is a specific learning disability that affects the ability to understand number-based concepts, arithmetic, and mathematical reasoning."
+		},
+		{
+			"id": "option-3",
+			"text": "Dysgraphia.",
+			"shortLabel": "Dysgraphia",
+			"rationale": "Dysgraphia primarily affects physical handwriting, letter formation, and motor typing coordination."
+		},
+		{
+			"id": "option-4",
+			"text": "Dyspraxia.",
+			"shortLabel": "Dyspraxia",
+			"rationale": "Dyspraxia (developmental coordination disorder) affects physical coordination and motor planning."
+		}
+	],
+	"correctOptionId": "option-2",
+	"explanation": "Dyscalculia is a learning disability involving difficulties with math and computational reasoning. Individuals with dyscalculia frequently struggle with understanding quantities, managing money, measuring time, and grasping arithmetic formulas.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "Understood: What is Dyscalculia?",
+			"url": "https://www.understood.org/en/articles/what-is-dyscalculia"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["cognitive-disabilities", "learning-disabilities"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-09"
+}

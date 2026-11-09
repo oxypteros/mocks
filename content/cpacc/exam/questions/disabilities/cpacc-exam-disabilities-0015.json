@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-disabilities-0015",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "Which digital design feature creates severe access barriers for a person with tremors or limited manual dexterity?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Small interactive touch targets positioned tightly together.",
+			"shortLabel": "Small, crowded touch targets",
+			"rationale": "Small, closely spaced interactive buttons require precise fine motor control, causing users with tremors to misclick or activate unintended commands."
+		},
+		{
+			"id": "option-2",
+			"text": "Text presented in low-contrast gray against a white background.",
+			"shortLabel": "Low-contrast text",
+			"rationale": "Low contrast is a visual accessibility barrier; it does not increase the precision required to activate a control."
+		},
+		{
+			"id": "option-3",
+			"text": "Audio alerts without a visual or text equivalent.",
+			"shortLabel": "Audio-only alerts",
+			"rationale": "Audio-only alerts create a barrier for people who are deaf or hard of hearing, not for manual dexterity."
+		},
+		{
+			"id": "option-4",
+			"text": "Long passages of dense text without headings or summaries.",
+			"shortLabel": "Dense text without headings",
+			"rationale": "Dense unheaded text affects reading and cognition; it does not demand fine motor control."
+		}
+	],
+	"correctOptionId": "option-1",
+	"explanation": "Users with fine motor limitations, arthritis, or hand tremors find small, crowded clickable areas difficult to activate accurately. Providing generous touch targets and sufficient white space between interactive controls ensures reliable activation and reduces accidental input.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "W3C Web Accessibility Initiative: Diverse Abilities and Barriers",
+			"url": "https://www.w3.org/WAI/people-use-web/abilities-barriers/"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["mobility-disabilities", "digital-accessibility"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-09"
+}

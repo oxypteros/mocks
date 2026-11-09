@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-disabilities-0023",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "Why does light gray body text on a white background present an accessibility barrier for people with low vision?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "It lacks sufficient contrast for people with reduced contrast sensitivity to differentiate letters from the page.",
+			"shortLabel": "Insufficient contrast for reduced sensitivity",
+			"rationale": "People with low vision frequently experience reduced contrast sensitivity, making faint text blend into backgrounds."
+		},
+		{
+			"id": "option-2",
+			"text": "It reduces the effective font size, so readers with low vision need to enlarge the page to read it.",
+			"shortLabel": "Reduces effective font size",
+			"rationale": "Low contrast does not change font size; it reduces the difference in luminance between text and background."
+		},
+		{
+			"id": "option-3",
+			"text": "It makes the text harder for screen readers to interpret because they rely on color to separate letters from the page.",
+			"shortLabel": "Confuses screen readers",
+			"rationale": "Screen readers read the underlying text regardless of color; the barrier is visual contrast, not the text's availability to assistive technology."
+		},
+		{
+			"id": "option-4",
+			"text": "It prevents users from applying their own high-contrast browser or operating-system settings to the page.",
+			"shortLabel": "Blocks high-contrast settings",
+			"rationale": "Browser and operating-system contrast settings can override authored colors; the problem is the default contrast the author chose."
+		}
+	],
+	"correctOptionId": "option-1",
+	"explanation": "Low vision often involves reduced contrast sensitivity, so light gray text against a white background provides too little luminance difference for many readers to perceive the words.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "Web Accessibility Initiative: Diverse Abilities and Barriers — Visual",
+			"url": "https://www.w3.org/WAI/people-use-web/abilities-barriers/visual/"
+		}
+	],
+	"images": [],
+	"difficulty": 2,
+	"tags": ["visual-disabilities", "low-vision"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-09"
+}

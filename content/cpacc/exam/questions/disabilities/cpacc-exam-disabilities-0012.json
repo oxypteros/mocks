@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-disabilities-0012",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "Why is professional Communication Access Realtime Translation (CART) often preferred over automated captions for technical live conferences?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Human CART providers accurately interpret jargon, speaker changes, and punctuation.",
+			"shortLabel": "Accurate transcription and punctuation",
+			"rationale": "Trained human stenographers understand context, grammar, speaker identification, and specialized technical terms that automated systems often misinterpret."
+		},
+		{
+			"id": "option-2",
+			"text": "CART providers translate the speaker's words into multiple languages in real time.",
+			"shortLabel": "Real-time translation",
+			"rationale": "CART transcribes speech in the speaker's language; it does not translate the content into other languages."
+		},
+		{
+			"id": "option-3",
+			"text": "CART providers correct automated caption output in real time to improve its accuracy.",
+			"shortLabel": "Real-time caption correction",
+			"rationale": "CART is produced by human stenographers or captioners working from the live audio, not by correcting an automated transcript."
+		},
+		{
+			"id": "option-4",
+			"text": "CART captions are generated from presentation slides, so they stay accurate when speakers improvise.",
+			"shortLabel": "Generated from presentation slides",
+			"rationale": "CART providers transcribe live speech; captions built only from slides would miss unscripted remarks and audience questions."
+		}
+	],
+	"correctOptionId": "option-1",
+	"explanation": "Automated captions frequently produce errors in punctuation, grammatical syntax, and specialized professional vocabulary. In technical or other complex settings, human Communication Access Realtime Translation (CART) ensures accuracy, context, and clear speaker identification.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["auditory-disabilities", "assistive-technology"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-09"
+}

@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-disabilities-0019",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "According to the World Health Organization (WHO), approximately what percentage of the world's population lives with a significant disability?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "16 percent (approximately 1.3 billion people).",
+			"shortLabel": "16 percent (1 in 6)",
+			"rationale": "WHO reports indicate that about 1.3 billion individuals, or roughly 1 in 6 people globally, experience significant disability."
+		},
+		{
+			"id": "option-2",
+			"text": "5 percent (approximately 400 million people worldwide).",
+			"shortLabel": "5 percent (1 in 20)",
+			"rationale": "A 5% estimate substantially underrepresents the global prevalence of persons with disabilities."
+		},
+		{
+			"id": "option-3",
+			"text": "30 percent (about 2.4 billion people).",
+			"shortLabel": "30 percent (nearly 1 in 3)",
+			"rationale": "While disability increases with aging populations, 30% exceeds the WHO estimate for significant disability."
+		},
+		{
+			"id": "option-4",
+			"text": "2 percent (approximately 160 million people worldwide).",
+			"shortLabel": "2 percent (1 in 50)",
+			"rationale": "A 2% estimate substantially underrepresents the global prevalence reported by WHO."
+		}
+	],
+	"correctOptionId": "option-1",
+	"explanation": "According to the World Health Organization (WHO), roughly 1.3 billion people—representing 16% of the global population, or 1 in 6 individuals—experience significant disability. This population is growing due to demographic aging and the rise of chronic health conditions.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "World Health Organization: Disability",
+			"url": "https://www.who.int/news-room/fact-sheets/detail/disability-and-health"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["demographics", "statistics"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-09"
+}

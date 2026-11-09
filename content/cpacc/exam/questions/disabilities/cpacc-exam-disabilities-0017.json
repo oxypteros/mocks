@@ -1,0 +1,49 @@
+{
+	"id": "cpacc-exam-disabilities-0017",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "To avoid triggering seizures in users with photosensitive epilepsy, digital media should avoid flashing content that exceeds which established frequency threshold?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Ten flashes within any continuous two-second interval.",
+			"shortLabel": "Ten flashes per two seconds",
+			"rationale": "Web standards define the safe boundary strictly around a three-flashes-per-second limit."
+		},
+		{
+			"id": "option-2",
+			"text": "Eight flashes within any single three-second interval.",
+			"shortLabel": "Eight flashes per three seconds",
+			"rationale": "This formula does not match the safety threshold designated in international accessibility standards."
+		},
+		{
+			"id": "option-3",
+			"text": "Five flashes within any continuous single-second window.",
+			"shortLabel": "Five flashes per second",
+			"rationale": "A rate of five flashes per second falls into the danger zone and violates accessibility requirements."
+		},
+		{
+			"id": "option-4",
+			"text": "Three flashes within any single one-second period.",
+			"shortLabel": "Three flashes per second",
+			"rationale": "Content must not flash more than three times in any one-second period, unless the flash is below the general and red flash thresholds."
+		}
+	],
+	"correctOptionId": "option-4",
+	"explanation": "Flickering lights or animations flashing more than three times per second can trigger photosensitive epileptic seizures. Web Content Accessibility Guidelines (WCAG) specify that web pages must keep flashing elements below this frequency or below general and red flash thresholds.",
+	"references": [
+		{
+			"kind": "web",
+			"title": "Web Content Accessibility Guidelines (WCAG) 2.2: Guideline 2.3",
+			"url": "https://www.w3.org/TR/WCAG22/#seizures-and-physical-reactions"
+		}
+	],
+	"images": [],
+	"difficulty": 4,
+	"tags": ["seizure-disabilities", "digital-accessibility"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-09"
+}

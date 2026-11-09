@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-disabilities-0013",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "For an individual with significant dual sensory loss (deaf-blindness), which sensory input serves as the essential medium for receiving detailed interpersonal communication?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Enlarged print read at close range with high-power magnification.",
+			"shortLabel": "Magnified print",
+			"rationale": "High magnification still depends on usable vision, which significant dual sensory loss does not reliably provide."
+		},
+		{
+			"id": "option-2",
+			"text": "A cochlear implant paired with an FM system to restore speech understanding.",
+			"shortLabel": "Cochlear implant and FM system",
+			"rationale": "Auditory devices can support awareness of sound, but they do not replace touch as the primary channel for complex communication in significant dual sensory loss."
+		},
+		{
+			"id": "option-3",
+			"text": "Vibrotactile alerts that convert environmental sounds into distinct vibration patterns.",
+			"shortLabel": "Vibrotactile sound alerts",
+			"rationale": "Vibrotactile alerts can signal sounds or events, but they do not carry the syntax and vocabulary needed for detailed interpersonal communication."
+		},
+		{
+			"id": "option-4",
+			"text": "Tactile interaction through braille and tactile sign language for expressive and receptive communication.",
+			"shortLabel": "Tactile braille and tactile signing",
+			"rationale": "Touch (tactile input) is the primary viable sensory channel for complex language and text when both vision and hearing are severely compromised."
+		}
+	],
+	"correctOptionId": "option-4",
+	"explanation": "Because deaf-blindness involves concurrent impairments in both vision and hearing, tactile modalities—such as tactile sign language, hands-on signing, and refreshable braille—provide the primary means for rich, expressive, and receptive communication.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "National Center on Deafblindness: Overview on Deaf-Blindness",
+			"author": "Barbara Miles, M.Ed.",
+			"year": "2008",
+			"url": "https://www.nationaldb.org/info-center/overview-factsheet/"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["deaf-blindness", "assistive-technology"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-09"
+}

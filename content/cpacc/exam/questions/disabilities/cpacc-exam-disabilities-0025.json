@@ -1,0 +1,51 @@
+{
+	"id": "cpacc-exam-disabilities-0025",
+	"module": "disabilities",
+	"type": "single",
+	"stem": "How do communication preferences often differ between individuals who lose their hearing late in life and those who are born deaf?",
+	"options": [
+		{
+			"id": "option-1",
+			"text": "Late-deafened adults often prefer written text and captions because they may not know sign language.",
+			"shortLabel": "Late-deafened prefer text over signing",
+			"rationale": "People who acquire hearing loss in adulthood developed spoken and written language first and often do not learn sign language."
+		},
+		{
+			"id": "option-2",
+			"text": "People who are born deaf typically learn sign language after they become fluent in spoken language.",
+			"shortLabel": "Born deaf learn signing second",
+			"rationale": "The first language of people born deaf is often sign language; they do not typically learn it after spoken language."
+		},
+		{
+			"id": "option-3",
+			"text": "Late-deafened adults usually avoid written transcripts because they prefer to rely on residual hearing.",
+			"shortLabel": "Late-deafened avoid transcripts",
+			"rationale": "Late-deafened adults often prefer text and captions; residual hearing does not replace written access for them."
+		},
+		{
+			"id": "option-4",
+			"text": "People born deaf often rely on audio description to follow the visual action in videos.",
+			"shortLabel": "Born deaf use audio description",
+			"rationale": "Audio description narrates visual content for people with visual disabilities, not deafness."
+		}
+	],
+	"correctOptionId": "option-1",
+	"explanation": "Individuals who acquire hearing loss later in life generally developed fluency in spoken and written languages first. They may not know sign language, making accurate captions, written transcripts, and assistive listening devices their primary accessibility accommodations.",
+	"references": [
+		{
+			"kind": "publication",
+			"title": "IAAP CPACC Body of Knowledge v4.0",
+			"author": "IAAP",
+			"year": "2025",
+			"url": "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK"
+		}
+	],
+	"images": [],
+	"difficulty": 3,
+	"tags": ["auditory-disabilities", "communication"],
+	"status": "published",
+	"provenance": "authored",
+	"reviewer": "Oxypteros",
+	"reviewedAt": "2026-10-30",
+	"sourceCheckedAt": "2026-11-09"
+}
